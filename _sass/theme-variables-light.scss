@@ -1,0 +1,34 @@
+
+
+$primary                 : #ff750b;
+$secondary               : #007A8A;
+
+$body-bg                 : #f0f4f1;
+$body-fg                 : #000000;
+
+$link-color              : #005A66;
+$link-hover-color        : shift-color($link-color, $link-shade-percentage);
+
+$header-bg               : $primary;
+$header-bg-gradient      : linear-gradient(180deg, shift-color($primary, -25%) 0%, $primary 100%);;
+$header-fg               : #000000;
+$header-border-b         : 3px solid #ffffff;
+
+$nav-fg                  : $header-fg;
+$nav-item-xs-bg          : rgba($body-bg, 0.5);
+$nav-item-xs-bg-hover    : rgba($body-bg, 0.3);
+$nav-item-xs-border      : 1px solid rgba(0,0,0,0.1);
+
+$dropdown-bg             : rgba($body-bg, 0.82);
+$dropdown-box-shadow     : $box-shadow-lg;
+$dropdown-border-color   : rgba($body-bg, .5);
+$dropdown-link-fg        : $body-fg !important;
+$dropdown-link-hover-bg  : rgba($body-bg, 0.5);
+$dropdown-link-active-bg : $secondary;
+$dropdown-divider-bg     : $dropdown-border-color;
+
+$offcanvas-bg-color      : $dropdown-bg;
+
+$page-title-bg           : $secondary;
+$page-title-bg-gradient  : repeating-linear-gradient(-45deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ($spacer/2), rgba(0, 0, 0, 0.2) ($spacer/2), rgba(0, 0, 0, 0.2) $spacer), linear-gradient(180deg, shift-color($secondary, -45%) 0%, $secondary 100%);
+$page-title-fg           : #ffffff;

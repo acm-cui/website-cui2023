@@ -1,0 +1,47 @@
+{%- assign cache = site.time | date: '%s%N' -%}
+<html lang="{{ site.lang }}" class="h-100">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="preconnect" href="https://fonts.googleapis.com"> 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+        <link href="https://fonts.googleapis.com/css2?family=Exo+2&display=swap" rel="stylesheet">
+        {%- include header_css.html -%}
+        {%- include header_javascript.html -%}
+        {%- if page.name == "index.md" %}
+            <title>Welcome to CUI {{ site.conference.year }}</title>
+        {%- else -%}
+            <title>
+                {{- page.title | escape | replace: "!!conference.year!!", site.conference.year | replace: "!!conference.location!!", site.conference.location | replace: "!!conference.dates!!", site.conference.dates }} - {{ site.title -}}
+            </title>
+        {% endif %}
+        {%- include header_social.html -%}
+    </head>
+    <body class="m-0 p-0">
+        <header>
+            <div class="container d-flex flex-row px-3 py-3 p-0">
+                <h1 class="mb-0 me-md-auto">
+                    <a href="{{ "/" | relative_url }}" title="The Conversational User Interfaces {{ site.conference.year }} homepage" alt="CUI {{ site.conference.year }} will take place in {{ site.conference.location }} from {{ site.conference.dates }}">
+                        <img src="{{ "/assets/img/logo-square.png" | relative_url }}" alt="Conversational User Interfaces {{ site.conference.year }} logo" class="d-lg-none">
+                        <img src="{{ "/assets/img/logo-wide.png" | relative_url }}" alt="Conversational User Interfaces {{ site.conference.year }} logo" class="d-lg-block d-none">
+                    </a>
+                </h1>
+                <div class="navbar-toggler-container align-self-end d-flex ms-auto d-md-none"">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" id="navbarLabel">
+                        <i class="bi bi-menu-app-fill"></i>
+                    </button>
+                </div>
+                <div class="navbar-container align-self-md-end d-flex flex-column justify-content-center text-md-end text-center fw-bold">
+                    {%- include header_menu.html -%}
+                </div>
+            </div>
+        </header>
+        <section>
+            {{- content -}}
+        </section>
+        <footer class="container text-center small pb-3 text-muted">
+            {%- include footer.html -%}
+        </footer>
+    </body>
+</html>

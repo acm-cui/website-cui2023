@@ -1,0 +1,92 @@
+.d-lt-none {
+  display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6, .conference-info, .page-title {
+    font-family: $titles-font-family;
+}
+
+h1 {
+    font-size: $h1-height;
+    line-height: $h1-line-height;
+    padding-y: $h1-padding-y;
+}
+
+h2, h3, h3, h4, h5, h5 {
+    margin: $headings-m !important;
+}
+
+header > *, nav, .page-title > *, section {
+    transition-timing-function: $transition-timing-function;
+    transition-duration: $transition-duration;
+    transition-property: width, max-width;
+}
+
+@each $breakpoint in map-keys($grid-breakpoints) {
+    @include media-breakpoint-up($breakpoint) {
+        header {
+            img {
+                width: map-get($header-logo-ws, $breakpoint);
+            }
+        }
+    }
+}
+
+.nav-link {
+    outline: none;
+}
+
+.navbar-toggler-container {
+    height: $navbar-line-height;
+        
+    .navbar-toggler {
+        font-size: 2rem;
+    
+        &:focus {
+            box-shadow: none !important;
+        }
+    }
+}
+
+.offcanvas {
+    -webkit-backdrop-filter: $offcanvas-bg-filter;
+    backdrop-filter: $offcanvas-bg-filter;
+}
+
+.navbar-nav {
+    @include border-radius($nav-item-xs-border-radius);
+
+    .nav-item {
+        &:first-of-type {
+            @include border-top-radius($nav-item-xs-border-radius);
+        }
+        &:last-of-type {
+            @include border-bottom-radius($nav-item-xs-border-radius);
+        }
+    }
+}
+
+.dropdown-menu {
+    -webkit-backdrop-filter: $dropdown-bg-filter;
+    backdrop-filter: $dropdown-bg-filter;
+}
+
+.profile-photo  {
+    width: $profile-photo-w;
+}
+
+@include media-breakpoint-up(md) {
+    .navbar-container {
+        height: $navbar-line-height;
+    }
+
+    .offcanvas {
+        -webkit-backdrop-filter: initial;
+        backdrop-filter: initial;
+        box-shadow: none !important;
+    }
+    
+    .offcanvas-end {
+        width: auto !important;
+    }
+}

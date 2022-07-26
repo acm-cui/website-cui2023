@@ -1,0 +1,32 @@
+
+$body-bg                 : #2a2a2a;
+$body-fg                 : #ffffff;
+
+$link-color              : #00D0EB;
+$link-hover-color        : shift-color($link-color, $link-shade-percentage);
+
+$header-bg               : $primary;
+$header-fg               : #000000;
+$header-border-b         : 3px solid $body-bg;
+
+$nav-fg-md               : $header-fg;
+$nav-fg                  : $body-fg;
+$nav-item-xs-bg          : rgba($body-bg, 0.52);
+$nav-item-xs-bg-hover    : rgba($body-bg, 0.12);
+$nav-item-xs-border      : 1px solid rgba(255,255,255,0.1);
+
+$dropdown-bg             : rgba($body-bg, 0.82);
+$dropdown-box-shadow     : $box-shadow-lg;
+$dropdown-border-color   : rgba($body-fg, .3);
+$dropdown-link-fg        : $body-fg !important;
+$dropdown-link-hover-bg  : rgba($body-bg, 0.5);
+$dropdown-link-active-bg : $secondary;
+$dropdown-divider-bg     : $dropdown-border-color;
+
+$offcanvas-bg-color      : $dropdown-bg;
+$offcanvas-color         : $body-fg;
+
+$text-muted              : $gray-400;
+$code-color              : #87E413;
+
+

@@ -1,0 +1,22 @@
+conference:
+    label: Conference chairs
+    roles:
+        general:
+            label: General Chairs
+            email: 'mailto:cui2023@conversationaluserinterfaces.org'
+            contact: true
+            people:
+              - name: Minha Lee
+                institution: Eindhoven University of Technology
+                country: The Netherlands
+                image: minha-lee.png
+              - name: Martin Porcheron
+                institution: Swansea University
+                country: UK
+                image: martin-porcheron.png
+              - name: Cosmin Munteanu
+                institution: University of Waterloo
+                country: Canada
+                image: cosmin-munteanu.jpg
+
+

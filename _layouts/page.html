@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{%- if page.title or page.splash_title -%}
+    <div class="shadow py-5 text-center page-title">
+        <div class="d-flex flex-column container col-xl-6 col-lg-7 col-md-8 col-12 py-md-3 py-0">
+            <h1 class="d-inline-block">
+                {%- if page.splash_title -%}
+                    {%- assign title = page.splash_title -%}
+                {%- else -%}
+                    {%- assign title = page.title -%}
+                {%- endif -%}
+                {{- title | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates -}}
+            </h1>
+            {%- if page.cta.text -%}
+                {% if page.cta.link and page.cta.title %}
+                    <div class="flex-grow-0">
+                        <a href="{{ page.cta.link }}" class="mt-3 btn btn-lg btn-light" title="{{ page.cta.title }}">{{ page.cta.text }} &rarr;</a>
+                    </div>
+                {% else %}
+                    <div class="flex-grow-0">
+                        <a class="mt-3 btn btn-lg btn-outline-light disabled">{{ page.cta.text }}</a>
+                    </div>
+                {% endif %}
+            {%- endif -%}
+        </div>
+    </div>
+{%- endif -%}
+
+<article class="container col-xl-6 col-lg-7 col-md-8 col-12 mt-md-5 mt-3 px-3">
+    {{- content -}}
+</article>

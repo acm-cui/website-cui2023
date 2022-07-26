@@ -1,0 +1,68 @@
+
+header {
+    background: $header-bg;
+    background: $header-bg-gradient;
+    border-bottom: $header-border-b;
+    color: $header-fg;
+}
+
+.navbar-toggler {
+    color: $navbar-toggler-fg;
+}
+
+nav {
+    color: $nav-fg;
+    
+    .nav-link, .nav-link:active, .nav-link:hover, .nav-link:visited {
+        color: $nav-fg !important;
+    }
+}
+
+.page-title {
+    color: $page-title-fg;
+    background: $page-title-bg;
+    background: $page-title-bg-gradient;
+    background-repeat: repeat;
+    font-size: $h1-font-size * 1.25;
+    padding-y: 5rem;
+}
+
+.dropdown-menu {
+    background: $dropdown-bg !important;
+}
+
+.dropdown-divider {
+    border-top: 1px solid $dropdown-divider-bg;
+}
+
+.navbar-nav {
+    border: $nav-item-xs-border;
+
+    .nav-item {
+        background: $nav-item-xs-bg;
+        border-bottom: $nav-item-xs-border;
+    
+        &:hover, &:active {
+            background: $nav-item-xs-bg-hover;
+        }
+
+        &:last-of-type {
+            border-bottom: 0;
+        }
+    }
+}
+
+@include media-breakpoint-up(md) {
+    .navbar-nav {
+        border: 0;
+
+        .nav-item {
+            background: transparent;
+            border-bottom: 0;
+    
+            &:hover, &:active {
+                background: transparent;
+            }
+        }
+    }
+}
