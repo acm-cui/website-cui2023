@@ -13,10 +13,23 @@ conference:
               - name: Martin Porcheron
                 institution: Swansea University
                 country: UK
-                image: martin-porcheron.png
+                image: martin-porcheron.jpg
               - name: Cosmin Munteanu
                 institution: University of Waterloo
                 country: Canada
                 image: cosmin-munteanu.jpg
+        general_assnts:
+            label: Assistants to the General Chairs
+            email: 'mailto:cui2023@conversationaluserinterfaces.org'
+            contact: true
+            people:
+              - name: Renee Noortman
+                institution: Eindhoven University of Technology
+                country: The Netherlands
+                image: renee-noortman.jpg
+              - name: Darren Scott
+                institution: Swansea University
+                country: UK
+                image: darren-scott.jpg
 
 
