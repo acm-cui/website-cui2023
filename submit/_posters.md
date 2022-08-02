@@ -25,7 +25,7 @@ lastmod: page
 
 # Poster submission information
 
-Posters allow for the presentation, discussion and information exchange of early stage research in the field of Conversational User Interfaces. Authors should submit a Poster Paper outlining their reearch. For the submission and review process, you should write an extended abstract that summarises the content you wish to present in your poster. If accepted, we will invite you to present your work at CUI {{ site.conference.year }}, with your extended abstract published in the conference proceedings.
+Posters allow for the presentation, discussion and information exchange of early stage research in the field of Conversational User Interfaces. Authors should submit a Poster Paper outlining their research. For the submission and review process, you should write an extended abstract that summarises the content you wish to present in your poster. If accepted, we will invite you to present your work at CUI {{ site.conference.year }}, with your extended abstract published in the conference proceedings.
 
 ## Key dates
 
@@ -66,6 +66,8 @@ At least one author of each accepted poster must register for the conference, ot
 You will receive an email from ACM to assign the rights for your paper, following which you will receive an email from "The ACM Publishing System" (TAPS), which will handle the generation of the final version of your paper. Accepted papers will be produced from LaTeX or Word source files into a single column HTML document and a two-column PDF for publication. We recommend all authors read ACM's guidance for [TAPS Best Practice](https://www.acm.org/publications/taps/taps-best-practices "The ACM Publishing System (TAPS) Best Practices").
 
 All ACM publications follow the [Green Open Access route by default](https://www.acm.org/publications/openaccess#green "Details on ACM's Green Open Access policies"), although authors have the opportunity to independently pay a fee for [Gold Open Access](https://www.acm.org/publications/openaccess#oapricing "Details on Gold Open Access pricing for ACM publications"). The total fee payable depends on the author(s) ACM membership status.
+
+You should, at this stage, produce the final design for your poster.
 
 ### 5. Present your work
 

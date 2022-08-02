@@ -25,8 +25,8 @@ lastmod: page
 
 # Provocation paper submission information
 
-Provocation papers at CUI are original and unpublished contributions from a broad range of disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology and other cognate disciplines. Theey should have a point that can be made in a few pages, such as a small, focused contribution, negative results, or an interesting application idea that explore controversial, risk-taking or nascent ideas that have the potential to spark debate and discussion at the conference.
-
+Provocation papers at CUI are original and unpublished contributions from a broad range of disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology and other cognate disciplines. They should have a point that can be made in a few pages, such as a small, focused contribution, negative results, or an interesting application idea that explore controversial, risk-taking or nascent ideas that have the potential to spark debate and discussion at the conference.
+  
 ## Key dates
 
 {% for date in site.data.track_dates[page.track.dates] -%}
