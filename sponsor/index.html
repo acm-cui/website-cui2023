@@ -1,0 +1,26 @@
+---
+description: Information on sponsoring ACM CUI !!conference.year!!
+splash_title: Sponsor ACM CUI !!conference.year!!
+lastmod: page
+---
+
+<p>
+  Sponsorship is an ideal opportunity to demonstrate your organisation’s commitment and research collaboration in the field of conversational user interfaces and increases the awareness of your products and services.
+</p>
+
+{%- for group in site.data.oc -%}
+    {%- for role in group[1]['roles'] -%}
+        {% if role[1]['contact'] -%}
+            <p>
+                For more information including sponsorship packages, which are open to discussion, please contact the <a href="{{ role[1].email }}" title="Send an email to the CUI {{ site.conference.year }} {{ role[1].label }}">CUI {{ site.conference.year }} {{ role[1].label }}</a>, 
+                {% assign use_and = role[1]['people'] | size | plus: -1 -%}
+                {%- for person in role[1]['people'] -%}
+                    {{- person.name -}}
+                    {%- if forloop.index == use_and %}, and {% else -%}{%- unless forloop.last %}, {% endunless -%}{%- endif -%}
+                {%- endfor -%}.
+            </p>
+            {%- break -%}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endfor -%}
+
