@@ -23,7 +23,7 @@ menus:
             <h3>{{ role[1].label }} <a href="{{ role[1].email }}" title="Send an email to the CUI {{ site.conference.year }} {{ role[1].label }}"><i class="bi bi-envelope-fill"></i></a></h3>
             <ul class="list-unstyled">
                 {% for people in role[1]['people'] %}
-                    <li class="d-flex my-5">
+                    <li class="d-flex my-4 align-items-center">
                         <div class="flex-shrink-0">
                             {%- if people.image %}
                             {%- assign image = people.image -%}
