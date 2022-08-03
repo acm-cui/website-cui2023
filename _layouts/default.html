@@ -27,13 +27,13 @@
                         <img src="{{ "/assets/img/logo-wide.png" | relative_url }}" alt="Conversational User Interfaces {{ site.conference.year }} logo" class="d-lg-block d-none">
                     </a>
                 </h1>
+                <div class="navbar-container align-self-md-end d-flex flex-column justify-content-center text-md-end text-center fw-bold">
+                    {%- include header_menu.html -%}
+                </div>
                 <div class="navbar-toggler-container align-self-end d-flex ms-auto d-md-none"">
                     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" id="navbarLabel">
                         <i class="bi bi-menu-app-fill"></i>
                     </button>
-                </div>
-                <div class="navbar-container align-self-md-end d-flex flex-column justify-content-center text-md-end text-center fw-bold">
-                    {%- include header_menu.html -%}
                 </div>
             </div>
         </header>
