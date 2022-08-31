@@ -2,7 +2,7 @@ conference:
     label: Conference chairs
     roles:
         general:
-            label: General Chairs
+            label: General chairs
             email: 'mailto:cui2023@conversationaluserinterfaces.org'
             contact: true
             people:
@@ -19,7 +19,7 @@ conference:
                 country: Canada
                 image: cosmin-munteanu.jpg
         general_assnts:
-            label: Assistants to the General Chairs
+            label: Assistants to the general chairs
             email: 'mailto:cui2023@conversationaluserinterfaces.org'
             contact: true
             people:
@@ -32,29 +32,30 @@ conference:
                 country: UK
                 image: darren-scott.jpg
         programme:
-            label: Programme Chairs
+            label: Programme chairs
             people:
               - name: Johanne Trippas
                 institution: Royal Melbourne Institute of Technology
                 country: Australia
-                image: noimage.jpg
+                image: noimage.png
               - name: Sarah Theres Völkel
                 institution: Google
                 country: Germany
-                image: noimage.jpg
-    track:
-        full:
-            label: Full Papers Chairs
-            people:
-              - name: Joel E Fischer
-                institution: University of Nottingham
-                country: UK
-                image: noimage.jpg
-              - name: Donald McMillan
-                institution: Stockholm University
-                country: Sweden
-                image: noimage.jpg
-              - name: Jaisie Sin
-                institution: University of Toronto
-                country: Canada
-                image: noimage.jpg
+                image: noimage.png
+tracks:
+    label: Track chairs
+    full:
+        label: Full Papers chairs
+        people:
+          - name: Joel E Fischer
+            institution: University of Nottingham
+            country: UK
+            image: noimage.png
+          - name: Donald McMillan
+            institution: Stockholm University
+            country: Sweden
+            image: noimage.png
+          - name: Jaisie Sin
+            institution: University of Toronto
+            country: Canada
+            image: noimage.png
