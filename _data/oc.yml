@@ -31,5 +31,30 @@ conference:
                 institution: Swansea University
                 country: UK
                 image: darren-scott.jpg
-
-
+        programme:
+            label: Programme Chairs
+            people:
+              - name: Johanne Trippas
+                institution: Royal Melbourne Institute of Technology
+                country: Australia
+                image: noimage.jpg
+              - name: Sarah Theres Völkel
+                institution: Google
+                country: Germany
+                image: noimage.jpg
+    track:
+        full:
+            label: Full Papers Chairs
+            people:
+              - name: Joel E Fischer
+                institution: University of Nottingham
+                country: UK
+                image: noimage.jpg
+              - name: Donald McMillan
+                institution: Stockholm University
+                country: Sweden
+                image: noimage.jpg
+              - name: Jaisie Sin
+                institution: University of Toronto
+                country: Canada
+                image: noimage.jpg
