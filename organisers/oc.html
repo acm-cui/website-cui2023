@@ -17,13 +17,14 @@ menus:
     {% assign num_roles_chairs = group[1]['roles'] | size %}
     {% assign half_num_roles_chairs = num_roles_chairs | plus: 1  | divided_by: 2%}
 
-    <div class="row">
+    <div class="row text-center">
         <div class="mb-0">
+            <h2>{{ group[1].label }}</h2>
             {% for role in group[1]['roles'] %}
-            <h3>{{ role[1].label }} <a href="{{ role[1].email }}" title="Send an email to the CUI {{ site.conference.year }} {{ role[1].label }}"><i class="bi bi-envelope-fill"></i></a></h3>
-            <ul class="list-unstyled">
+            <h3>{{ role[1].label }}{%- if role[1].email %} <a href="{{ role[1].email }}" title="Send an email to the CUI {{ site.conference.year }} {{ role[1].label }}"><i class="bi bi-envelope-fill"></i></a>{% endif %}</h3>
+            <ul class="list-unstyled d-inline-block" style="min-width: 400px">
                 {% for people in role[1]['people'] %}
-                    <li class="d-flex my-4 align-items-center">
+                    <li class="d-flex my-4 align-items-center mx-auto">
                         <div class="flex-shrink-0">
                             {%- if people.image %}
                             {%- assign image = people.image -%}
@@ -32,7 +33,7 @@ menus:
                             {%- endif -%}
                             <img src="{{ "/assets/img/oc/" | append: image | relative_url }}" class="mr-3 rounded-circle shadow profile-photo" alt="A photo of {{ people.name }}" title="{{ people.name }}">
                         </div>
-                        <div class="flex-grow-1 ms-3">
+                        <div class="flex-grow-1 ms-3 text-start">
                             {{ people.name }}<br><span class="text-muted small">{{ people.institution }}, {{ people.country }}</span>
                          </div>
                      </li>

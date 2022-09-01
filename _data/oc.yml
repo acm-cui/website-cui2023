@@ -35,27 +35,99 @@ conference:
             label: Programme chairs
             people:
               - name: Johanne Trippas
-                institution: Royal Melbourne Institute of Technology
+                institution: RMIT
                 country: Australia
-                image: noimage.png
+                image: johanne-trippas.jpg
               - name: Sarah Theres Völkel
                 institution: Google
                 country: Germany
-                image: noimage.png
+                image: sarah-volkel.png
+        local:
+            label: Local organisation chairs
+            people:
+              - name: Janet Huang
+                institution: Eindhoven University of Technology
+                country: The Netherlands
+                image: janet-huang.png
+              - name: Alain Starke
+                institution: Wageningen University and Research
+                country: The Netherlands
+                image: alain-starke.jpg
+        registration:
+            label: Registration chair
+            people:
+              - name: Mateusz Dubiel
+                institution: University of Luxembourg
+                country: Luxembourg
+                image: mateusz-dubiel.jpg
+        registration:
+            label: Diversity and Accessibility chairs
+            people:
+              - name: Razan Jaber
+                institution: Stockholm University
+                country: Swedem
+                image: razan-jaber.jpg
+              - name: Cristina Zaga
+                institution: University of Twente
+                country: The Netherlands
+                image: christina-zaga.jpg
+        socialmedia:
+            label: Social media & web chairs
+            people:
+              - name: Jason Nurse
+                institution: University of Kent
+                country: UK
+                image: jason-nurse.jpg
+              - name: Martin Porcheron
+                institution: Swansea University
+                country: UK
+                image: martin-porcheron.jpg
+              - name: Cristina Zaga
+                institution: University of Twente
+                country: The Netherlands
+                image: christina-zaga.jpg
+
+
+
 tracks:
     label: Track chairs
-    full:
-        label: Full Papers chairs
-        people:
-          - name: Joel E Fischer
-            institution: University of Nottingham
-            country: UK
-            image: noimage.png
-          - name: Donald McMillan
-            institution: Stockholm University
-            country: Sweden
-            image: noimage.png
-          - name: Jaisie Sin
-            institution: University of Toronto
-            country: Canada
-            image: noimage.png
+    roles:
+        papers:
+            label: Papers chairs
+            people:
+              - name: Joel E Fischer
+                institution: University of Nottingham
+                country: UK
+                image: joel-fischer.png
+              - name: Donald McMillan
+                institution: Stockholm University
+                country: Sweden
+                image: donny-mcmillan.jpg
+              - name: Jaisie Sin
+                institution: University of Toronto
+                country: Canada
+                image: jaisie-sin.png
+        provocations:
+            label: Provocations chairs
+            people:
+              - name: Christine Murad
+                institution: University of Toronto
+                country: Canada
+                image: christine-murad.jpg
+              - name: Yanchao Yu
+                institution: Edinburgh Napier University
+                country: UK
+                image: yanchao-yu.jpg
+        postersdemos:
+            label: Posters & demos chairs
+            people:
+              - name: Yunhan Wu
+                institution: University College Dublin
+                country: Ireland
+                image: yunhan-wu.jpg
+              - name: Leigh Clark
+                institution: Bold Insight
+                country: UK
+                image: leigh-clark.jpg
+                
+               
