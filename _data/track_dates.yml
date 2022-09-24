@@ -1,19 +1,21 @@
-full_papers:
-  -  label: Submissions due
-     date: 23rd Feb.
-     extended_date: 2nd March 2022
+papers:
+  -  label: Abstracts and metadata due
+     date: Wedesday 15th February 2023
+
+  -  label: Papers due
+     date: Wednesday 22nd February 2023
 
   -  label: Notifications
-     date: 6th April 2022
+     date: 29th March 2023
 
-  -  label: Shepherding
-     date: 6–20th April 2022
+  -  label: Shepherded & conditionally-accepted drafts due
+     date: 13th April 2023
 
-  -  label: Final notifications
-     date: 27th April 2022
+  -  label: Final notifications due
+     date: 20th April 2023
 
-  -  label: Camera ready due
-     date: 11th May 2022
+  -  label: Camera ready/TAPS due
+     date: 4th May 2023
 
 short_papers:
   -  label: Submissions due
