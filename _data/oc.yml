@@ -129,5 +129,34 @@ tracks:
                 institution: Bold Insight
                 country: UK
                 image: leigh-clark.jpg
-                
+        workshops:
+            label: Workshop chairs
+            people:
+              - name: Bob Moore
+                institution: IBM Research
+                country: USA
+                image: bob-moore.jpg
+              - name: Michal Luria
+                institution: Carnegie Mellon University
+                country: USA
+                image: michal-luria.jpg
+        dc:
+            label: Doctoral Consortium mentors
+            people:
+              - name: Heloisa Candello
+                institution: IBM Research
+                country: Brazil
+                image: heloisa-candello.png
+              - name: Berry Eggen
+                institution: Eindhoven University of Technology
+                country: The Netherlands
+                image: berry-eggen.jpg
+              - name: Asbjørn Følstad
+                institution: SINTEF
+                country: Norway
+                image: asbjorn-folstad.jpg
+              - name: Benjamin R Cowan
+                institution: University College Dublin
+                country: Ireland
+                image: benjamin-cowan.jpg
                
