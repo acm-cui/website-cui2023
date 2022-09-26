@@ -19,7 +19,7 @@ conference:
                 country: UK
                 image: martin-porcheron.jpg
         general_assnts:
-            label: Assistants to the general chairs
+            label: Assistants to the General chairs
             email: 'mailto:cui2023@conversationaluserinterfaces.org'
             contact: true
             people:
@@ -43,7 +43,7 @@ conference:
                 country: Germany
                 image: sarah-volkel.png
         local:
-            label: Local organisation chairs
+            label: Local Organisation chairs
             people:
               - name: Janet Huang
                 institution: Eindhoven University of Technology
@@ -72,7 +72,7 @@ conference:
                 country: The Netherlands
                 image: christina-zaga.jpg
         socialmedia:
-            label: Social media & web chairs
+            label: Social Media & Web chairs
             people:
               - name: Jason Nurse
                 institution: University of Kent
@@ -115,7 +115,7 @@ tracks:
                 country: UK
                 image: yanchao-yu.jpg
         postersdemos:
-            label: Posters & demos chairs
+            label: Posters & Demos chairs
             email: 'mailto:cui2023-postersdemos@conversationaluserinterfaces.org'
             people:
               - name: Leigh Clark
