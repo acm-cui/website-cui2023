@@ -94,6 +94,7 @@ tracks:
     roles:
         papers:
             label: Papers chairs
+            email: 'mailto:cui2023-papers@conversationaluserinterfaces.org'
             people:
               - name: Joel E Fischer
                 institution: University of Nottingham
@@ -109,6 +110,7 @@ tracks:
                 image: jaisie-sin.png
         provocations:
             label: Provocations chairs
+            email: 'mailto:cui2023-provocations@conversationaluserinterfaces.org'
             people:
               - name: Christine Murad
                 institution: University of Toronto
@@ -120,6 +122,7 @@ tracks:
                 image: yanchao-yu.jpg
         postersdemos:
             label: Posters & demos chairs
+            email: 'mailto:cui2023-postersdemos@conversationaluserinterfaces.org'
             people:
               - name: Yunhan Wu
                 institution: University College Dublin
@@ -131,6 +134,7 @@ tracks:
                 image: leigh-clark.jpg
         workshops:
             label: Workshops chairs
+            email: 'mailto:cui2023-workshops@conversationaluserinterfaces.org'
             people:
               - name: Bob Moore
                 institution: IBM Research
@@ -142,6 +146,7 @@ tracks:
                 image: michal-luria.jpg
         dc:
             label: Doctoral Consortium mentors
+            email: 'mailto:cui2023-doctoralconsortium@conversationaluserinterfaces.org'
             people:
               - name: Heloisa Candello
                 institution: IBM Research
