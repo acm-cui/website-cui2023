@@ -130,7 +130,7 @@ tracks:
                 country: UK
                 image: leigh-clark.jpg
         workshops:
-            label: Workshop chairs
+            label: Workshops chairs
             people:
               - name: Bob Moore
                 institution: IBM Research
