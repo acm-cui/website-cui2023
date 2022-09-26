@@ -82,12 +82,6 @@ conference:
                 institution: Swansea University
                 country: UK
                 image: martin-porcheron.jpg
-              - name: Cristina Zaga
-                institution: University of Twente
-                country: The Netherlands
-                image: christina-zaga.jpg
-
-
 
 tracks:
     label: Track chairs
