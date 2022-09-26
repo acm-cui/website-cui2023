@@ -49,9 +49,9 @@ Submissions of research papers must be in English, in PDF format, anonymised usi
 
 You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates") to prepare your submission. We strongly encourage use of the Overleaf LaTeX template. LaTeX users may start their work by using the official ACM template available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc "ACM Primary Article Template templates on Overleaf"). LaTeX users should have the following document class: <code>\documentclass[manuscript, review, anonymous]{acmart}</code>.
 
-Word users should use the double-column "Interim Template" during submission and review, and should be prepared to submit to TAPS earlier than the stated camera-ready deadline.  
+Word users should use the double-column "Interim Template" during submission and review and should be prepared to submit to TAPS _approximately one week earlier_ than the stated camera-ready deadline.  
 
-ACM's CCS concepts and keywords are not required for review but are be required if your paper is accepted and published by the ACM.
+ACM's CCS concepts and keywords are not required for submission and peer review but are required if your paper is accepted and published by the ACM.
 
 ### 2. Submit your manuscript
 
