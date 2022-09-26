@@ -25,7 +25,7 @@ lastmod: page
 
 # Paper submission information
 
-We invite the submission of research papers, describing original work that has not been previously published, not accepted for publication elsewhere, and not simultaneously submitted or currently under review in another journal or conference (including [the other tracks of CUI {{ site.conference.year }}](/submit/)).
+We invite the submission of research papers, describing original work that has not been previously published, not accepted for publication elsewhere, and not simultaneously submitted or currently under review in another journal or conference (including [the other tracks of CUI {{ site.conference.year }}]({{ "/submit/" | relative_url }} "All submission tracks at CUI {{ site.conference.year }}")).
 
 We particularly encourage the submission of high-quality replication studies in addition to well-designed studies with null results. 
 
