@@ -9,13 +9,13 @@ papers:
      date: 29th March 2023
 
   -  label: Shepherded & conditionally-accepted drafts due
-     date: 13th April 2023
-
-  -  label: Final notifications due
      date: 20th April 2023
 
+  -  label: Final notifications due
+     date: 27th April 2023
+
   -  label: Camera ready/TAPS due
-     date: 4th May 2023
+     date: 11th May 2023
 
 short_papers:
   -  label: Submissions due
