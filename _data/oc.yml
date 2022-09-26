@@ -10,14 +10,14 @@ conference:
                 institution: Eindhoven University of Technology
                 country: The Netherlands
                 image: minha-lee.png
-              - name: Martin Porcheron
-                institution: Swansea University
-                country: UK
-                image: martin-porcheron.jpg
               - name: Cosmin Munteanu
                 institution: University of Waterloo
                 country: Canada
                 image: cosmin-munteanu.jpg
+              - name: Martin Porcheron
+                institution: Swansea University
+                country: UK
+                image: martin-porcheron.jpg
         general_assnts:
             label: Assistants to the general chairs
             email: 'mailto:cui2023@conversationaluserinterfaces.org'
@@ -118,26 +118,26 @@ tracks:
             label: Posters & demos chairs
             email: 'mailto:cui2023-postersdemos@conversationaluserinterfaces.org'
             people:
-              - name: Yunhan Wu
-                institution: University College Dublin
-                country: Ireland
-                image: yunhan-wu.jpg
               - name: Leigh Clark
                 institution: Bold Insight
                 country: UK
                 image: leigh-clark.jpg
+              - name: Yunhan Wu
+                institution: University College Dublin
+                country: Ireland
+                image: yunhan-wu.jpg
         workshops:
             label: Workshops chairs
             email: 'mailto:cui2023-workshops@conversationaluserinterfaces.org'
             people:
-              - name: Bob Moore
-                institution: IBM Research
-                country: USA
-                image: bob-moore.jpg
               - name: Michal Luria
                 institution: Carnegie Mellon University
                 country: USA
                 image: michal-luria.jpg
+              - name: Bob Moore
+                institution: IBM Research
+                country: USA
+                image: bob-moore.jpg
         dc:
             label: Doctoral Consortium mentors
             email: 'mailto:cui2023-doctoralconsortium@conversationaluserinterfaces.org'
@@ -146,6 +146,10 @@ tracks:
                 institution: IBM Research
                 country: Brazil
                 image: heloisa-candello.png
+              - name: Benjamin R Cowan
+                institution: University College Dublin
+                country: Ireland
+                image: benjamin-cowan.jpg
               - name: Berry Eggen
                 institution: Eindhoven University of Technology
                 country: The Netherlands
@@ -154,8 +158,4 @@ tracks:
                 institution: SINTEF
                 country: Norway
                 image: asbjorn-folstad.jpg
-              - name: Benjamin R Cowan
-                institution: University College Dublin
-                country: Ireland
-                image: benjamin-cowan.jpg
                
