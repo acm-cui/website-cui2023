@@ -60,6 +60,17 @@ conference:
                 institution: University of Luxembourg
                 country: Luxembourg
                 image: mateusz-dubiel.jpg
+        sv:
+            label: Student Volunter chairs
+            people:
+              - name: Chao Zhang
+                institution: Eindhoven University of Technology
+                country: The Netherlands
+                image: chao-zhang.jpg
+              - name: Maria Luce Lupetti
+                institution: Delft University of Technology
+                country: The Netherlands
+                image: maria-luce-lupetti.jpg
         registration:
             label: Diversity and Accessibility chairs
             people:
@@ -82,6 +93,7 @@ conference:
                 institution: Swansea University
                 country: UK
                 image: martin-porcheron.jpg
+
 
 tracks:
     label: Track chairs
