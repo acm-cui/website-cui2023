@@ -43,7 +43,7 @@ Papers are original contributions from a broad range of disciplines including hu
 
 All submissions will proceed through the following process. Please contact the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">{{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a> if you have any questions.
 
-### 1. Prepare your manuscript
+### 1. Prepare your paper
 
 Submissions of research papers must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2022 Anonymization Policy"), and approximately **6,000-8,000 words** (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments). Submissions above 8,000 words or below 5,000 words, will be considered for desk rejection. Papers whose lengths are incommensurate with their contributions will be rejected.
 
@@ -53,7 +53,7 @@ Word users should use the double-column "Interim Template" during submission and
 
 ACM's CCS concepts and keywords are not required for submission and peer review but are required if your paper is accepted and published by the ACM.
 
-### 2. Submit your manuscript
+### 2. Submit your paper
 
 You should submit your paper to the [conference submission system]({{ "/submit/pcs/" | relative_url }} "CUI {{ site.conference.year }} submission system"). You must include your title, abstract, author details, and paper as a PDF. Your paper must be anonymised, or it may be desk rejected.
 
@@ -68,7 +68,7 @@ All papers will be reviewed by two external reviewers and one ‘Associate Chair
 A small number of papers that may require further revisions will be shepherded (equivalent to major revisions or light revise & resubmit), with 3 weeks allocated for authors to coordinate the revisions with the AC coordinating each paper. This may include targeted revisions to specific parts of the original submission addressing the most significant points raised by the reviewers, or alternative forms as deemed appropriate by the AC.
 
 
-### 4. Prepare your manuscript for publication
+### 4. Prepare your paper for publication
 
 If your paper is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
 
@@ -78,7 +78,7 @@ You will receive an email from ACM to assign the rights for your paper, followin
 
 All ACM publications follow the [Green Open Access route by default](https://www.acm.org/publications/openaccess#green "Details on ACM's Green Open Access policies"), although authors have the opportunity to independently pay a fee for [Gold Open Access](https://www.acm.org/publications/openaccess#oapricing "Details on Gold Open Access pricing for ACM publications"). The total fee payable depends on the author(s) ACM membership status.
 
-### 5. Present your work
+### 5. Present your paper
 
 Authors will be given an oral presentation slot at the conference. The specific details of this presentation will be provided closer to the conference.
 
