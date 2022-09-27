@@ -57,6 +57,8 @@ ACM's CCS concepts and keywords are not required for submission and peer review 
 
 You should submit your paper to the [conference submission system]({{ "/submit/pcs/" | relative_url }} "CUI {{ site.conference.year }} submission system"). You must include your title, abstract, author details, and paper as a PDF. Your paper must be anonymised, or it may be desk rejected.
 
+We ask you to submit your metadata and abstract a week before submission of your paper PDF to allow for preliminary work on the peer review process to begin.
+
 We ask you to make sure that your submission is accessible for all users. To accomplish this, please follow the [SIGCHI Guide to an Accessible Submission](https://sigchi.org/conferences/author-resources/accessibility-guide/ "SIGCHI's guide to an Accessible Submission").
 
 ### 3. Await reviews
