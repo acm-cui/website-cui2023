@@ -82,33 +82,21 @@ All ACM publications follow the [Green Open Access route by default](https://www
 
 Authors will be given an oral presentation slot at the conference. The specific details of this presentation will be provided closer to the conference.
 
-## {{ page.label }} chairs
+## Questions?
 
-Please contact the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">{{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a> if you have any questions.
-
+<p>
 {%- for group in site.data.oc -%}
 {%- for role in group[1]['roles'] -%}
-{%- if role[0] == page.track.chairs %}
-<div class="mb-0">
-<ul class="list-unstyled d-inline-block" style="min-width: 400px">
-{%- for people in role[1]['people'] -%}
-<li class="d-flex my-4 align-items-center mx-auto">
-<div class="flex-shrink-0">
-{%- if people.image %}
-{%- assign image = people.image -%}
-{%- else -%}
-{%- assign image = 'noimage.png' -%}
+{%- if role[0] == page.track.chairs -%}
+  If you have any questions, please contact the <a href="{{ role[1].email }}" title="Send an email to the CUI {{ site.conference.year }} {{ role[1].label }}">{{ role[1].label }}</a>, 
+  {% assign use_and = role[1]['people'] | size | plus: -1 -%}
+  {%- for person in role[1]['people'] -%}
+      {{- person.name -}}
+      {%- if forloop.index == use_and %}, and {% else -%}{%- unless forloop.last %}, {% endunless -%}{%- endif -%}
+  {%- endfor %} for support.
+  {%- break -%}
 {%- endif -%}
-<img src="{{ "/assets/img/oc/" | append: image | relative_url }}" class="mr-3 rounded-circle shadow profile-photo" alt="A photo of {{ people.name }}" title="{{ people.name }}">
-</div>
-<div class="flex-grow-1 ms-3 text-start">
-{{ people.name }}<br><span class="text-muted small">{{ people.institution }}, {{ people.country }}</span>
-</div>
-</li>
-{%- endfor -%}
-</ul>
-{% endif -%}
 {%- endfor -%}
 {%- endfor -%}
-
+</p>
 
