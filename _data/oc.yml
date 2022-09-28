@@ -63,10 +63,6 @@ conference:
         sv:
             label: Student Volunter chairs
             people:
-              - name: Chao Zhang
-                institution: Eindhoven University of Technology
-                country: The Netherlands
-                image: chao-zhang.jpg
               - name: Maria Luce Lupetti
                 institution: Delft University of Technology
                 country: The Netherlands
