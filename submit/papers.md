@@ -63,7 +63,7 @@ We ask you to make sure that your submission is accessible for all users. To acc
 
 ### 3. Await reviews
 
-All papers will be reviewed by two external reviewers and one ‘Associate Chair’ (2AC), with one ‘Associate Chair’ (1AC) leading the reviewing process and writing a meta review. Reviewers will receive their reviews along with a decision from the reviewing process. Papers for which there is a very high agreement among reviewers regarding recommendation for inclusion in the proceedings will receive early acceptance decisions. All accept decisions are conditional and will be checked by the 1AC before final acceptance.
+All papers will be reviewed by three reviewers: one who is a member of the programme committee (referred to as a ‘second associate chair’, 2AC) and two non-programme committee members. Another member of the programme committee will lead the reviewing process and write a meta review (‘referred to as ‘first associate chair’, 1AC). Papers for which there is a very high agreement among reviewers regarding recommendation for inclusion in the proceedings will receive early acceptance decisions. All accept decisions are conditional and will be checked by the 1AC before final acceptance.
 
 A small number of papers that may require further revisions will be shepherded (equivalent to major revisions or light revise & resubmit), with 3 weeks allocated for authors to coordinate the revisions with the AC coordinating each paper. This may include targeted revisions to specific parts of the original submission addressing the most significant points raised by the reviewers, or alternative forms as deemed appropriate by the AC.
 
