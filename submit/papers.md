@@ -37,7 +37,7 @@ Papers are original contributions from a broad range of disciplines including hu
 {{ date.label }}: {% if date.extended_date %}<strike>{{ date.date }}</strike> <strong>{{ date.extended_date }}</strong>{% else %}<strong>{{ date.date }}</strong>{% endif %}<br>
 {%- endfor -%}
 
-<em class="small">All deadlines are at 23:59 Anywhere on Earth</em>
+<em class="small"><br>All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
 
 ## The process
 
@@ -47,9 +47,9 @@ All submissions will proceed through the following process. Please contact the <
 
 Submissions of research papers must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2022 Anonymization Policy"), and approximately **6,000-8,000 words** (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments). Submissions above 8,000 words or below 5,000 words, will be considered for desk rejection. Papers whose lengths are incommensurate with their contributions will be rejected.
 
-You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates") to prepare your submission.  LaTeX users may start their work by using the official ACM template available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc "ACM Primary Article Template templates on Overleaf"), which we strongly encourage. LaTeX users should have the following document class: <code>\documentclass[sigconf, screen, review, anonymous]{acmart}</code> for submission.
+You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates for Microsoft Word and LaTeX") to prepare your submission.  LaTeX users may start their work by using the official ACM template available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc "ACM Primary Article Template templates on Overleaf"), which we strongly encourage. LaTeX users should have the following document class: <code>\documentclass[sigconf, screen, review, anonymous]{acmart}</code> for submission.
 
-Word users should use the double-column "Interim Template" during submission and review and should be prepared to submit to TAPS _approximately one week earlier_ than the stated camera-ready deadline.  
+Word users should use [the double-column "Interim Template"](https://www.acm.org/publications/proceedings-template#h-interim-template "ACM Interim Template for submissions") during submission and review and should be prepared to submit to TAPS _approximately one week earlier_ than the stated camera-ready deadline. Word users may be required to reimplement their paper, if accepted, into the correct document format for the publishing process.
 
 ACM's CCS concepts and keywords are not required for submission and peer review but are required if your paper is accepted and published by the ACM.
 
@@ -71,6 +71,8 @@ A small number of papers that may require further revisions will be shepherded (
 ### 4. Prepare your paper for publication
 
 If your paper is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
+
+Programme Chairs will send information on how to ready your paper for the publishing process. Word users may be required to reimplement their paper, if accepted, into the correct document format for the publishing process, while LaTeX users will have to adjust their <code>documentclass</code>.
 
 At least one author of each accepted paper must register for the conference, otherwise we cannot guarantee publication of your paper. Accepted papers will be archived in the <a href="http://dl.acm.org/" title="The ACM Digital Library">ACM Digital Library</a>.
 
