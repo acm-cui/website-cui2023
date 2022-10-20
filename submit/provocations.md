@@ -89,7 +89,7 @@ Authors will be given an oral presentation slot at the conference. The specific 
   {% assign use_and = role[1]['people'] | size | plus: -1 -%}
   {%- for person in role[1]['people'] -%}
       {{- person.name -}}
-      {%- if forloop.index == use_and %}, and {% else -%}{%- unless forloop.last %}, {% endunless -%}{%- endif -%}
+      {%- if forloop.index == use_and %}, and {% else -%}{%- unless forloop.last %} {% endunless -%}{%- endif -%}
   {%- endfor %} for support.
   {%- break -%}
 {%- endif -%}
