@@ -2,11 +2,11 @@
 label: Provocations
 description: Provocation papers at CUI !!conference.year!! explore controversial, risk-taking or nascent ideas that have the potential to spark debate and discussion at the conference.
 
-splash_title: Provocation papers<br>at CUI !!conference.year!!
+splash_title: Provocations<br>at CUI !!conference.year!!
 
 cta:
-  text: Submissions not open yet
-  title: Submissions for the provocation papers track is currently closed
+  text: Submissions open soon
+  title: Submissions for the provocations track is currently closed
 #  link: /2023/submit/pcs/
   
 track:
