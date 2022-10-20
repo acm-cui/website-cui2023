@@ -26,7 +26,10 @@ lastmod: page
 # Provocation paper submission information
 
 Provocations at CUI are original and unpublished contributions from a broad range of disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology and other cognate disciplines. A provocation should discuss or communicate a thought-provoking idea or proposal that can be made in a few pages. The contribution should have the potential to spark debate and discussion at the conference. We encourage **out-of-the-box** or even **controversial** ideas to be proposed through provocation.
-  
+
+Late-breaking/non-provocative work should be submitted to [the other tracks of CUI {{ site.conference.year }}]({{ "/submit/" | relative_url }} "All submission tracks at CUI {{ site.conference.year }}") (details of the posters and demos tracks will be available soon).
+
+
 ## Key dates
 
 {% for date in site.data.track_dates[page.track.dates] -%}
