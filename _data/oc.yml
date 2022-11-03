@@ -67,6 +67,13 @@ conference:
                 institution: Delft University of Technology
                 country: The Netherlands
                 image: maria-luce-lupetti.jpg
+        hybrid:
+            label: Hybrid Experience chair
+            people:
+              - name: Justin Edwards
+                institution: University College Dublin.
+                country: Ireland
+                image: justin-edwards.jpg
         registration:
             label: Diversity and Accessibility chairs
             people:
