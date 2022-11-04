@@ -2,7 +2,7 @@
 label: Demos
 description: The Demos track at CUI !!conference.year!! allows authors to present interactive contributions aiming to tackle challenges and show progress in the field of conversational user interfaces.
 
-splash_title: Demos at CUI !!conference.year!!
+splash_title: Demos<br>at CUI !!conference.year!!
 
 cta:
   text: Submissions not open yet
