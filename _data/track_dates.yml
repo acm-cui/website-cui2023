@@ -27,6 +27,25 @@ provocations:
   -  label: Camera ready/TAPS due
      date: Thursday 11th May 2023
 
+posters:
+  -  label: Submissions due
+     extended_date: Monday 17th April 2023
+
+  -  label: Notifications
+     date: Monday 15th May 2023
+
+  -  label: Camera ready/TAPS due
+     date: Thursday 11th May 2023
+
+demos:
+  -  label: Submissions due
+     extended_date: Monday 17th April 2023
+
+  -  label: Notifications
+     date: Monday 15th May 2023
+
+  -  label: Camera ready/TAPS due
+     date: Thursday 11th May 2023
 
 featured_talks:
   -  label: Submissions due

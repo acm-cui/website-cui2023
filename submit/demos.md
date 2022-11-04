@@ -10,8 +10,8 @@ cta:
 #  link: /2023/submit/pcs/
   
 track:
-  chairs: short_papers
-  dates: short_papers
+  chairs: postersdemos
+  dates: demos
 
 menus:
   submit:
@@ -25,7 +25,9 @@ lastmod: page
 
 # Demo submission information
 
-Demos are interactive contributions aiming to tackle challenges and show progress in the field of Conversational User Interfaces. Authors should submit an extended abstract detailing their demo for the review process.
+Demos are interactive contributions aiming to tackle challenges and show progress in the field of Conversational User Interfaces.  
+ 
+For the submission and review process, you should write an extended abstract that summarises your demo. If accepted, we will invite you to present your work at CUI 2023, with your extended abstract published in the conference proceedings. 
 
 ## Key dates
 
@@ -34,6 +36,15 @@ Demos are interactive contributions aiming to tackle challenges and show progres
 {%- endfor -%}
 
 <em class="small">All deadlines are at 23:59 Anywhere on Earth</em>
+
+## Examples of demos at CUI
+
+Some examples of previously successful submissions can be found below: 
+
+* [ALTCAI: Enabling the Use of Embodied Conversational Agents to Deliver Informal Health Advice during Wizard of Oz Studies](https://dl.acm.org/doi/abs/10.1145/3469595.3469621 "Read 'ALTCAI: Enabling the Use of Embodied Conversational Agents to Deliver Informal Health Advice during Wizard of Oz Studies' on ACM Digital Library")
+* [How can AI leverage alternative criteria and suggest a better way to measure credit worthiness and economic growth?](https://dl.acm.org/doi/abs/10.1145/3543829.3544537 "Read 'How can AI leverage alternative criteria and suggest a better way to measure credit worthiness and economic growth?' on the ACM Digital Library")
+* [Perceived Usefulness of Conversational Agents Predicts Search Performance in Aerospace Domain](https://dl.acm.org/doi/abs/10.1145/3405755.3406172 "Read 'Perceived Usefulness of Conversational Agents Predicts Search Performance in Aerospace Domain' on the ACM Digital Library")
+
 
 ## The process
 
@@ -46,15 +57,17 @@ Submissions of extended abstracts for demos must be in English, in PDF format, a
 
 You should include a description of the system, a description of the problem(s) it addresses, a discussion regarding its novelty and/or applied context, a discussion regarding the technology’s relevance to the CUI community, a description of the planned presentation, and details about how online attendees will interact with the demonstration. Your description of the planned presentation should focus on how you will provide an engaging interactive experience for your audience.
 
-You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates") to prepare your submission. Word users should use "Submission Template" during submission and review, while LaTeX users should have the following document class: <code>\documentclass[manuscript, review, anonymous]{acmart}</code>. LaTeX users may start their work by using the official ACM template available on [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official "ACM authoring templates on Overleaf").
+You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates for Microsoft Word and LaTeX") to prepare your submission.  LaTeX users may start their work by using the official ACM template available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc "ACM Primary Article Template templates on Overleaf"), which we strongly encourage. LaTeX users should have the following document class: <code>\documentclass[sigconf, screen, review, anonymous]{acmart}</code> for submission.
 
-ACM's CCS concepts and keywords are not required for review but may be required if accepted and published by the ACM.
+Word users should use [the double-column "Interim Template"](https://www.acm.org/publications/proceedings-template#h-interim-template "ACM Interim Template for submissions") during submission and review and should be prepared to submit to TAPS _approximately one week earlier_ than the stated camera-ready deadline. Word users may be required to reimplement their paper, if accepted, into the correct document format for the publishing process.
+
+ACM's CCS concepts and keywords are not required for submission and peer review but are required if your paper is accepted and published by the ACM.
 
 You should also prepare a 2 minute (max) video demonstration of your demo.
 
 ### 2. Submit your manuscript and video
 
-You should submit your extended abstract and video to the [conference submission system]({{ "/submit/pcs/" | relative_url }} "CUI {{ site.conference.year }} submission system"). You must include your title, abstract, author details, and paper as a PDF, and your video showreel. Your paper and video must be anonymised, or it may be desk rejected. 
+You should submit your extended abstract and video to the [conference submission system]({{ "/submit/pcs/" | relative_url }} "CUI {{ site.conference.year }} submission system"). You must include your title, abstract, author details, and paper as a PDF, and your short video. Your paper and video must be anonymised, or it may be desk rejected. 
 
 We ask you to make sure that your submission is accessible for all users. To accomplish this, please follow the [SIGCHI Guide to an Accessible Submission](https://sigchi.org/conferences/author-resources/accessibility-guide/ "SIGCHI's guide to an Accessible Submission").
 
@@ -75,3 +88,23 @@ All ACM publications follow the [Green Open Access route by default](https://www
 ### 5. Present your work
 
 Authors be given the opportunity to present their demo during a dedicated session. The specific details of this presentation will be provided closer to the conference.
+
+
+
+## Questions?
+
+<p>
+{%- for group in site.data.oc -%}
+{%- for role in group[1]['roles'] -%}
+{%- if role[0] == page.track.chairs -%}
+  If you have any questions, please contact the <a href="{{ role[1].email }}" title="Send an email to the CUI {{ site.conference.year }} {{ role[1].label }}">{{ role[1].label }}</a>, 
+  {% assign use_and = role[1]['people'] | size | plus: -1 -%}
+  {%- for person in role[1]['people'] -%}
+      {{- person.name -}}
+      {%- if forloop.index == use_and %} and {% else -%}{%- unless forloop.last %}, {% endunless -%}{%- endif -%}
+  {%- endfor %} for support.
+  {%- break -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+</p>
