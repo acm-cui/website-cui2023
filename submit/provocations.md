@@ -30,6 +30,16 @@ Provocations at CUI are original and unpublished contributions from a broad rang
 Late-breaking/non-provocative work should be submitted to [the other tracks of CUI {{ site.conference.year }}]({{ "/submit/" | relative_url }} "All submission tracks at CUI {{ site.conference.year }}") (either [Posters]({{ "/submit/posters/" | relative_url }} "Posters track at CUI {{ site.conference.year }}") or [Demos]({{ "/submit/demos/" | relative_url }} "Demos track at CUI {{ site.conference.year }}") are potentially applicable destinations).
 
 
+## Examples of provocations at CUI
+
+Some examples of previously successful submissions can be found below:
+
+* [Provocation on the Certification of Skills in the Alexa and Google Assistant Ecosystems](https://doi.org/10.1145/3543829.3544513 "Read 'Provocation on the Certification of Skills in the Alexa and Google Assistant Ecosystems' on the ACM Digital Library")
+* [Embrace your incompetence! Designing appropriate CUI communication through an ecological approach](https://doi.org/10.1145/3543829.3544531 "Read 'Embrace your incompetence! Designing appropriate CUI communication through an ecological approach' on the ACM Digital Library")
+* ["I don't know what you're talking about, HALexa": the case for voice user interface guidelines](https://doi.org/10.1145/3342775.3342795 "Read 'The case for voice user interface guidelines' on the ACM Digital Library")
+* [Conservation Through Conversation - A Provocation](https://doi.org/10.1145/3469595.3469602 "Read 'Conservation Through Conversation - A Provocation' on the ACM Digital Library")
+
+
 ## Key dates
 
 {% for date in site.data.track_dates[page.track.dates] -%}
