@@ -1,6 +1,10 @@
 ---
 description: Contact details for CUI !!conference.year!!.
 lastmod: page
+menu:
+  main:
+    title: Contact
+    weight: 10
 ---
 
 # Contact us
