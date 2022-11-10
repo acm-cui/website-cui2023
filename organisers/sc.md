@@ -2,7 +2,7 @@
 label: Steeing Committee
 description: Visit the website for the Conversational User Interfaces conference series Steering Committee.
 layout: redirection
-target: https://www.conversationaluserinterfaces.org/steering-committee/
+target: https://www.conversationaluserinterfaces.org/sc/
 
 menus:
   organisers:
