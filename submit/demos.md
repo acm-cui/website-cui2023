@@ -51,7 +51,7 @@ Some examples of previously successful submissions can be found below:
 All demo papers will proceed through the following process. Please contact the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">{{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a> if you have any questions.
 
 
-### 1. Prepare your manuscript and video
+### 1. Prepare your extended abstract and video
 
 Submissions of extended abstracts for demos must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2022 Anonymization Policy"), and approximately 3,000 words (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments).
 
@@ -65,7 +65,7 @@ ACM's CCS concepts and keywords are not required for submission and peer review 
 
 You should also prepare a 2 minute (max) video demonstration of your demo.
 
-### 2. Submit your manuscript and video
+### 2. Submit your extended abstract and video
 
 You should submit your extended abstract and video to the [conference submission system]({{ "/submit/pcs/" | relative_url }} "CUI {{ site.conference.year }} submission system"). You must include your title, abstract, author details, and paper as a PDF, and your short video. Your paper and video must be anonymised, or it may be desk rejected. 
 
@@ -75,7 +75,7 @@ We ask you to make sure that your submission is accessible for all users. To acc
 
 Each submission will be reviewed by one track chair and one expert reviewer through a curated process. Following a curated selection process, successful submissions will be invited to present at CUI {{ site.conference.year }}.In curating the program creativity in delivery, feasibility, novelty, and ability to engage attendees in-person and online will be assessed. Our aim is to deliver an array of captivating demonstrations that showcase the diverse research arenas contributing to the conversational user interface research community. Sensitive, private and/or proprietary information should not be disclosed prior to publication. Business exposure is reserved for event sponsors only, so advertising materials should not be used in demonstrations. 
 
-### 4. Prepare your manuscript for publication
+### 4. Prepare your extended abstract for publication
 
 If your demo is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
 

@@ -50,7 +50,7 @@ Some examples of previously successful submissions can be found below:
 
 All posters will proceed through the following process. Please contact the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">{{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a> if you have any questions.
 
-### 1. Prepare your manuscript
+### 1. Prepare your extended abstract
 
 Submissions of extended abstract must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2022 Anonymization Policy"), and approximately 3,000 words (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments).
 
@@ -60,7 +60,7 @@ Word users should use [the double-column "Interim Template"](https://www.acm.org
 
 ACM's CCS concepts and keywords are not required for submission and peer review but are required if your paper is accepted and published by the ACM.
 
-### 2. Submit your manuscript
+### 2. Submit your extended abstract
 
 You should submit your extended abstract to the [conference submission system]({{ "/submit/pcs/" | relative_url }} "CUI {{ site.conference.year }} submission system"). You must include your title, abstract, author details, and extended abstract as a PDF. Your extended abstract must be anonymised, or it may be desk rejected.
 
@@ -70,7 +70,7 @@ We ask you to make sure that your submission is accessible for all users. To acc
 
 Each submission will be peer reviewed by three expert reviewers under a refereed process under a double-anonymous process (i.e., authors will not be revealed to reviewers, and all reviewers will be hidden from each other and authors). Extended abstracts for which there is a very high agreement among reviewers regarding recommendation for inclusion in the proceedings will receive early acceptance decisions and will be conditionally accepted, pending the integration of any changes requested through the review process. 
 
-### 4. Prepare your manuscript for publication
+### 4. Prepare your extended abstract for publication
 
 If your extended abstract is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
 
