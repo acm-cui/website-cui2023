@@ -19,7 +19,7 @@ papers:
 
 provocations:
   -  label: Submissions due
-     extended_date: Monday 17th April 2023
+     date: Monday 17th April 2023
 
   -  label: Notifications
      date: Monday 15th May 2023
@@ -29,7 +29,7 @@ provocations:
 
 posters:
   -  label: Submissions due
-     extended_date: Monday 17th April 2023
+     date: Monday 17th April 2023
 
   -  label: Notifications
      date: Monday 15th May 2023
@@ -39,13 +39,26 @@ posters:
 
 demos:
   -  label: Submissions due
-     extended_date: Monday 17th April 2023
+     date: Monday 17th April 2023
 
   -  label: Notifications
      date: Monday 15th May 2023
 
   -  label: Camera ready/TAPS due
      date: Thursday 11th May 2023
+
+workshops:
+  -  label: Submissions due
+     date: Thursday 2nd March 2023
+
+  -  label: Notifications
+     date: Friday 14th April 2023
+
+  -  label: Camera ready/TAPS due
+     date: Thursday 11th May 2023
+
+  -  label: Workshops
+     date: Wednesday 19th July 2023
 
 featured_talks:
   -  label: Submissions due
