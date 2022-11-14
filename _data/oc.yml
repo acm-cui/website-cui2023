@@ -33,6 +33,7 @@ conference:
                 image: darren-scott.jpg
         programme:
             label: Programme chairs
+            email: 'mailto:cui2023-programme@conversationaluserinterfaces.org'
             people:
               - name: Johanne Trippas
                 institution: RMIT
@@ -44,6 +45,7 @@ conference:
                 image: sarah-volkel.png
         local:
             label: Local Organisation chairs
+            email: 'mailto:cui2023-local@conversationaluserinterfaces.org'
             people:
               - name: Janet Huang
                 institution: Eindhoven University of Technology
@@ -55,13 +57,15 @@ conference:
                 image: alain-starke.jpg
         registration:
             label: Registration chair
+            email: 'mailto:cui2023-registration@conversationaluserinterfaces.org'
             people:
               - name: Mateusz Dubiel
                 institution: University of Luxembourg
                 country: Luxembourg
                 image: mateusz-dubiel.jpg
         sv:
-            label: Student Volunter chairs
+            label: Student Volunter chair
+            email: 'mailto:cui2023-sv@conversationaluserinterfaces.org'
             people:
               - name: Maria Luce Lupetti
                 institution: Delft University of Technology
@@ -69,13 +73,15 @@ conference:
                 image: maria-luce-lupetti.jpg
         hybrid:
             label: Hybrid Experience chair
+            email: 'mailto:cui2023-hybrid@conversationaluserinterfaces.org'
             people:
               - name: Justin Edwards
-                institution: University College Dublin.
+                institution: University College Dublin
                 country: Ireland
                 image: justin-edwards.jpg
         registration:
-            label: Diversity and Accessibility chairs
+            label: Diversity & Accessibility chairs
+            email: 'mailto:cui2023-diversity@conversationaluserinterfaces.org'
             people:
               - name: Razan Jaber
                 institution: Stockholm University
@@ -87,6 +93,7 @@ conference:
                 image: christina-zaga.jpg
         socialmedia:
             label: Social Media & Web chairs
+            email: 'mailto:cui2023-social@conversationaluserinterfaces.org'
             people:
               - name: Jason Nurse
                 institution: University of Kent
