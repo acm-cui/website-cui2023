@@ -79,7 +79,7 @@ conference:
                 institution: University College Dublin
                 country: Ireland
                 image: justin-edwards.jpg
-        registration:
+        diversity:
             label: Diversity & Accessibility chairs
             email: 'mailto:cui2023-diversity@conversationaluserinterfaces.org'
             people:
