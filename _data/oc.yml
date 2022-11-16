@@ -180,4 +180,8 @@ tracks:
                 institution: SINTEF
                 country: Norway
                 image: asbjorn-folstad.jpg
+              - name: Stephan Schlögl
+                institution: MCI
+                country: Austria
+                image: stephan-schloegl.jpg
                
