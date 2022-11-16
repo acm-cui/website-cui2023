@@ -22,7 +22,7 @@ menus:
 
 # Apply to be an Associate Chair
 
-CUI {{ site.conference.year }} is looking for Associate Chairs (AC) for the CUI {{ site.conference.year }} Programme Committee!
+CUI {{ site.conference.year }} is looking for Associate Chairs (AC) for the CUI {{ site.conference.year }} Programme Committee! The deadline for applications is the **8th December 2022**.
 
 ## About the role
 
