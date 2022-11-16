@@ -161,7 +161,7 @@ tracks:
                 country: USA
                 image: bob-moore.jpg
         dc:
-            label: Doctoral Consortium mentors
+            label: Doctoral Consortium chairs
             email: 'mailto:cui2023-doctoralconsortium@conversationaluserinterfaces.org'
             people:
               - name: Heloisa Candello
