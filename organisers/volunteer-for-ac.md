@@ -5,7 +5,7 @@ description: CUI !!conference.year!! is looking for volunteers for the Papers Pr
 splash_title: Volunteer as an Associate<br>Chair for CUI !!conference.year!!
 
 cta:
-  text: Submit nomination
+  text: Volunteer now
   title: Volunteer as an Associate Chair on the CUI !!conference.year!! Programme Committee
   link: https://forms.office.com/r/gpGr1n37Yq
 
@@ -37,7 +37,7 @@ Note that CUI submissions are typically around 8,000 words in length excluding r
 For more details, please see the [papers track page]({{ "/submit/papers/" | relative_url }} "Papers track at CUI {{ site.conference.year }}").
 
 <div class="text-center mb-3">
-<a href="https://forms.office.com/r/gpGr1n37Yq" class="my-3 btn btn-lg btn-dark text-light border" title="Volunteer as an Associate Chair on the CUI !!conference.year!! Programme Committee">Submit nomination →</a>
+<a href="https://forms.office.com/r/gpGr1n37Yq" class="my-3 btn btn-lg btn-dark text-light border" title="Volunteer as an Associate Chair on the CUI !!conference.year!! Programme Committee">Volunteer now →</a>
 </div>
 
 <p>
