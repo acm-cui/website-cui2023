@@ -52,6 +52,10 @@ nav {
     }
 }
 
+.logos {
+    border-left: 1px solid $secondary;
+}
+
 @include media-breakpoint-up(md) {
     .navbar-nav {
         border: 0;
@@ -64,5 +68,11 @@ nav {
                 background: transparent;
             }
         }
+    }
+}
+@include media-breakpoint-up(lg) {
+    .logos {
+        border-left: 0
+        border-top: 1px solid $secondary;
     }
 }
