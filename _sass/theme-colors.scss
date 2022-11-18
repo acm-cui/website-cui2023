@@ -53,7 +53,7 @@ nav {
 }
 
 .logos {
-    border-left: 1px solid $secondary;
+    border-top: 1px solid $secondary;
 }
 
 @include media-breakpoint-up(md) {
@@ -72,7 +72,7 @@ nav {
 }
 @include media-breakpoint-up(lg) {
     .logos {
-        border-left: 0;
-        border-top: 1px solid $secondary;
+        border-top: 0;
+        border-left: 1px solid $secondary;
     }
 }
