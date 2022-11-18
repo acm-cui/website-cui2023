@@ -72,6 +72,8 @@ Proposed workshop topics should be of interest to the conversational user interf
 
 We ask you to make sure that your submission is accessible for all users. To accomplish this, please follow the [SIGCHI Guide to an Accessible Submission](https://sigchi.org/conferences/author-resources/accessibility-guide/ "SIGCHI's guide to an Accessible Submission").
 
+By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies "ACM Publications Policies and Procedures"), including [ACM's new Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects "https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects"). Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
+
 Sensitive, private and/or proprietary information should not be disclosed prior to publication. Business exposure is reserved for event sponsors only, so advertising materials should not be used in demonstrations. 
 
 ### 3. Await reviews
@@ -100,11 +102,15 @@ At least one author of each accepted workshop proposal must register for the con
 
 You will receive an email from ACM to assign the rights for your proposal, following which you will receive an email from "The ACM Publishing System" (TAPS), which will handle the generation of the final version of your proposal. Accepted proposals will be produced from LaTeX or Word source files into a single column HTML document and a two-column PDF for publication. We recommend all authors read ACM's guidance for [TAPS Best Practice](https://www.acm.org/publications/taps/taps-best-practices "The ACM Publishing System (TAPS) Best Practices").
 
+Please ensure that you and your co-authors [obtain an ORCID ID](https://orcid.org/register "Register for an ORCID ID"), so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently [made a commitment to collect ORCID IDs from all of our published authors](https://authors.acm.org/author-resources/orcid-faqs "ACM committment to collect ORCID IDs from all authors"). The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+
 All ACM publications follow the [Green Open Access route by default](https://www.acm.org/publications/openaccess#green "Details on ACM's Green Open Access policies"), although authors have the opportunity to independently pay a fee for [Gold Open Access](https://www.acm.org/publications/openaccess#oapricing "Details on Gold Open Access pricing for ACM publications"). The total fee payable depends on the author(s) ACM membership status.
 
 ### 5. Present your work
 
 CUI workshops will be held on 19th July 2023 (first day of the conference). You will be provided details about the timings of your workshop closer to the time by the Workshops chairs.
+
+Your proposal will be published in the CUI Proceedings in the [ACM Digital Library](http://dl.acm.org/ "ACM Digital Library"). [SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction") participates in the [ACM Open Table of Contents (OpenTOC)](https://www.acm.org/publications/openaccess "ACM Open Access information") service, which means proposals will be freely available from this website for the first year after publication.
 
 ## Questions?
 
