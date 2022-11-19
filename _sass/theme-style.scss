@@ -75,9 +75,14 @@ header > *, nav, .page-title > *, section {
     width: $profile-photo-w;
 }
 
-.logos {
-    a {
-        max-width: 100%;
+.logos.icons {
+    img {
+        max-height: 40px
+    }
+}
+.logos.full-width {
+    img {
+        max-width: 50%
     }
 }
 
@@ -94,5 +99,13 @@ header > *, nav, .page-title > *, section {
     
     .offcanvas-end {
         width: auto !important;
+    }
+}
+
+@include media-breakpoint-up(lg) {
+    .logos.full-width {
+        img {
+            max-width: 100%
+        }
     }
 }

@@ -52,7 +52,7 @@ nav {
     }
 }
 
-.logos {
+.sidebar {
     border-top: 1px solid $secondary;
 }
 
@@ -71,7 +71,7 @@ nav {
     }
 }
 @include media-breakpoint-up(lg) {
-    .logos {
+    .sidebar {
         border-top: 0;
         border-left: 1px solid $secondary;
     }

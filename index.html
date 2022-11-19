@@ -79,15 +79,31 @@ menu:
         </p>
     </div>
 
-    <div class="col-xl-4 col-lg-5 col-12 pt-lg-0 py-3 px-lg-3 px-5 d-flex flex-column align-items-center justify-content-start logos">
-        <a href="https://acm.org/" title="CUI {{ site.conference.year }} is an ACM conference" class="">
-            <img src="{{ "/assets/img/banner-acm.png" | relative_url }}" alt="ACM logo" title="CUI {{ site.conference.year }} is an ACM conference" class="d-dk-none homepage-banner">
-            <img src="{{ "/assets/img/banner-acm-dk.png" | relative_url }}" alt="ACM logo" title="CUI {{ site.conference.year }} is an ACM conference" class="d-lt-none homepage-banner">
-        </a>
-        <a href="https://sigchi.org/" title="CUI {{ site.conference.year }} is an ACM  conference" class="">
-            <img src="{{ "/assets/img/banner-sigchi.png" | relative_url }}" alt="ACM SIGCHI logo" title="CUI {{ site.conference.year }} is an ACM conference" class="mt-md-3 mt-5 d-dk-none homepage-banner">
-            <img src="{{ "/assets/img/banner-sigchi-dk.png" | relative_url }}" alt="ACM SIGCHI logo" title="CUI {{ site.conference.year }} is an ACM conference" class="mt-md-3 mt-5 d-lt-none homepage-banner">
-        </a>
+    <div class="col-xl-4 col-lg-5 col-12 pt-lg-0 py-3 px-lg-3 d-flex flex-column align-items-center justify-content-start sidebar">
+        <div class="logos icons">
+            <a href="https://twitter.com/ACM_CUI" title="@ACM_CUI on Twitter" class="d-inline-block text-center me-3">
+                <img src="{{ "/assets/img/link-twitter.png" | relative_url }}" alt="Twitter logo" title="@ACM_CUI on Twitter" class="d-dk-none">
+                <img src="{{ "/assets/img/link-twitter-dk.png" | relative_url }}" alt="Twitter logo" title="@ACM_CUI on Twitter" class="d-lt-none">
+            </a>
+            <a href="https://hci.social/@cui" title="@cui@hci.social on Mastodon" rel="me" class="d-inline-block text-center me-3">
+                <img src="{{ "/assets/img/link-mastodon.png" | relative_url }}" alt="Mastodon logo" title="@cui@hci.social on Mastodon" class="d-dk-none">
+                <img src="{{ "/assets/img/link-mastodon-dk.png" | relative_url }}" alt="Mastodon logo" title="@cui@hci.social on Mastodon" class="d-lt-none">
+            </a>
+            <a href="https://dl.acm.org/action/doSearch?&startPage=&rel=nofollow&SpecifiedLevelConceptID=122215" title="CUI proceedings in the ACM Digital Library" class="d-inline-block text-center">
+                <img src="{{ "/assets/img/link-acmdl.png" | relative_url }}" alt="ACM Digital Library logo" title="CUI proceedings in the ACM Digital Library" class="d-dk-none">
+                <img src="{{ "/assets/img/link-acmdl-dk.png" | relative_url }}" alt="ACM Digital Library logo" title="CUI proceedings in the ACM Digital Library" class="d-lt-none">
+            </a>
+        </div>
+        <div class="logos full-width d-block w-100 mt-4 text-center">
+            <a href="https://acm.org/" title="CUI {{ site.conference.year }} is an ACM conference" class="d-inline text-center mb-4">
+                <img src="{{ "/assets/img/logo-acm.png" | relative_url }}" alt="ACM logo" title="CUI {{ site.conference.year }} is an ACM conference" class="d-dk-none">
+                <img src="{{ "/assets/img/logo-acm-dk.png" | relative_url }}" alt="ACM logo" title="CUI {{ site.conference.year }} is an ACM conference" class="d-lt-none">
+            </a>
+            <a href="https://sigchi.org/" title="CUI {{ site.conference.year }} is an ACM  conference" class="d-inline-block text-center mt-4">
+                <img src="{{ "/assets/img/logo-sigchi.png" | relative_url }}" alt="ACM SIGCHI logo" title="CUI {{ site.conference.year }} is an ACM conference" class="d-dk-none">
+                <img src="{{ "/assets/img/logo-sigchi-dk.png" | relative_url }}" alt="ACM SIGCHI logo" title="CUI {{ site.conference.year }} is an ACM conference" class="d-lt-none">
+            </a>
+        </div>
 <!--        <h3 class="mt-5 text-center flex-grow-1">Sponsors</h3>
         <div class="d-flex flex-row flex-items-basis-0">
             <a href="https://www.sicsa.ac.uk" title="CUI {{ site.conference.year }} is sponsored by the Scottish Informatics &amp; Computer Science Alliance" class="flex-grow-1 flex-shrink-1">
