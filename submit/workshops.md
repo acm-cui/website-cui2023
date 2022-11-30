@@ -1,6 +1,6 @@
 ---
 label: Workshops
-description: CUI !!conference.year!! will feature a dedicated workshops track, allowing attendees to organise focused activities co-located at the conference.
+description: CUI !!conference.year!! will feature a dedicated workshops track, allowing attendees to organise focused activities co-located at the conference. We are now open to workshops proposals.
 
 splash_title: Workshops<br>at CUI !!conference.year!!
 
@@ -13,12 +13,12 @@ track:
   chairs: workshops
   dates: workshops
 
-#menus:
-#  submit:
-#    title: Workshops
-#    alt: Information about submitting to the workshops track at CUI !!conference.year!!
-#    weight: 6
-#    is_track: true
+menus:
+  submit:
+    title: Workshops
+    alt: Information about propsing a workshops at CUI !!conference.year!!
+    weight: 6
+    is_track: true
 
 lastmod: page
 ---
