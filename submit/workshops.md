@@ -27,8 +27,8 @@ lastmod: page
 
 CUI {{ site.conference.year }} will be the first year we have a dedicated workshops track for the conference—workshops at CUI {{ site.conference.year }} will be half-day or whole day workshop, **in-person**. 
  
-To propose a workshop, you should write a proposal that the topic and your plans for the workshop. If accepted, you will be expected to lead on the organisation of the workshop. At least one workshop organizer is expected to attend the conference. Workshops can be planned to be fully in-person or in hybrid mode. 
- 
+To propose a workshop, you should write a proposal that the topic and your plans for the workshop. If accepted, you will be expected to lead on the organisation of the workshop. At least one workshop organizer is expected to attend the conference. Workshops can be planned to be fully in-person or in hybrid mode. If workshop organizers are proposing a hybrid setup, we ask to include a description of how they plan to accommodate remote participants for an inclusive and effective workshop experience.
+
 ## Key dates
 
 {% for date in site.data.track_dates[page.track.dates] -%}
