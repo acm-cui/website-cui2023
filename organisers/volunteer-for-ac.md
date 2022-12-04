@@ -33,7 +33,7 @@ CUI Program Committee (PC) members will be assigned around 6 submissions as part
 
 ## Papers reviewing process
 
-Note that CUI submissions are typically around 8,000 words in length excluding references, with longer papers being considered for desk rejection unless the length is commensurate to the contribution or the methodological approach. More details about the CUI conference can be found on the [papers track page]({{ "/submit/papers/" | relative_url }} "Papers track at CUI {{ site.conference.year }}"). For additional details you are also welcome to contact us, the CUI papers chairs (Joel E Fischer, Donald McMillan, and Jaisie Sin) at cui2023-papers@conversationaluserinterfaces.org 
+Note that CUI submissions are typically around 8,000 words in length excluding references, with longer papers being considered for desk rejection unless the length is commensurate to the contribution or the methodological approach. More details about the CUI conference can be found on the [papers track page]({{ "/submit/papers/" | relative_url }} "Papers track at CUI {{ site.conference.year }}").
 
 
 <div class="text-center mb-3">
