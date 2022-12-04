@@ -45,7 +45,7 @@ Note that CUI submissions are typically around 8,000 words in length excluding r
 {%- for role in group[1]['roles'] -%}
 {%- if role[0] == page.track.chairs -%}
   For additional details you are also welcome to contact us, the CUI <a href="{{ role[1].email }}" title="Send an email to the CUI {{ site.conference.year }} {{ role[1].label }}">{{ role[1].label }}</a> (
-  {% assign use_and = role[1]['people'] | size | plus: -1 -%}
+  {%- assign use_and = role[1]['people'] | size | plus: -1 -%}
   {%- for person in role[1]['people'] -%}
       {{- person.name -}}
       {%- if forloop.index == use_and %}, and {% else -%}{%- unless forloop.last %}, {% endunless -%}{%- endif -%}
