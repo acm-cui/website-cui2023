@@ -8,7 +8,7 @@ conference:
             people:
               - name: Minha Lee
                 institution: Eindhoven University of Technology
-                country: The Netherlands
+                country: Netherlands
                 image: minha-lee.png
               - name: Cosmin Munteanu
                 institution: University of Waterloo
@@ -25,7 +25,7 @@ conference:
             people:
               - name: Renee Noortman
                 institution: Eindhoven University of Technology
-                country: The Netherlands
+                country: Netherlands
                 image: renee-noortman.jpg
               - name: Darren Scott
                 institution: Swansea University
@@ -49,11 +49,11 @@ conference:
             people:
               - name: Janet Huang
                 institution: Eindhoven University of Technology
-                country: The Netherlands
+                country: Netherlands
                 image: janet-huang.png
               - name: Alain Starke
-                institution: Wageningen University and Research
-                country: The Netherlands
+                institution: University of Amsterdam
+                country: Netherlands
                 image: alain-starke.jpg
         registration:
             label: Registration chair
@@ -69,7 +69,7 @@ conference:
             people:
               - name: Maria Luce Lupetti
                 institution: Delft University of Technology
-                country: The Netherlands
+                country: Netherlands
                 image: maria-luce-lupetti.jpg
         hybrid:
             label: Hybrid Experience chair
@@ -89,7 +89,7 @@ conference:
                 image: razan-jaber.jpg
               - name: Cristina Zaga
                 institution: University of Twente
-                country: The Netherlands
+                country: Netherlands
                 image: christina-zaga.jpg
         socialmedia:
             label: Social Media & Web chairs
