@@ -19,6 +19,7 @@ menus:
     alt: Information about propsing a workshops at CUI !!conference.year!!
     weight: 6
     is_track: true
+    sep_before: true
 
 lastmod: page
 ---

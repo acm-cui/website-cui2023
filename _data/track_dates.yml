@@ -47,6 +47,16 @@ demos:
   -  label: Camera ready/TAPS due
      date: Thursday 11th May 2023
 
+dc:
+  -  label: Applications due
+     date: Monday 17th April 2023
+
+  -  label: Notifications
+     date: Monday 15th May 2023
+
+  -  label: Doctoral Consortium
+     date: Wednesday 19th July 2023
+
 workshops:
   -  label: Submissions due
      date: Thursday 2nd March 2023
