@@ -51,6 +51,8 @@ Students conducting research in the field of conversational user interfaces (bro
  
 ## The process
 
+All Doctoral Consortium applications will proceed through the following process. Please contact the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">{{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a> if you have any questions.
+
 ### 1. Prepare your application 
 
 Students are invited to submit an application in extended abstract format for participation.
