@@ -13,12 +13,12 @@ track:
   chairs: dc
   dates: dc
 
-#menus:
-#  submit:
-#    title: Doctoral Consortium
-#    alt: Information about submitting to the posters track at CUI !!conference.year!!
-#    weight: 7
-#    is_track: true
+menus:
+  submit:
+    title: Doctoral Consortium
+    alt: Information about submitting to the posters track at CUI !!conference.year!!
+    weight: 7
+    is_track: true
 
 lastmod: page
 ---
