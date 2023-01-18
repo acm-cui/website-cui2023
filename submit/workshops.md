@@ -63,7 +63,7 @@ Proposed workshop topics should be of interest to the conversational user interf
 * Design considerations for conversational UX 
 * Formatting content for conversation 
 * Real-world applications of conversational agents 
-* Working with foundational models (e.g., BERT, GPT-3) 
+* Working with foundational models (e.g., BERT, ChatGPT) 
 * Hybrid approaches to voice and text 
 * Understanding human conversation 
 * Evaluating conversational agent performance 
