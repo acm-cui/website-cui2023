@@ -63,7 +63,7 @@ Proposed workshop topics should be of interest to the conversational user interf
 * Design considerations for conversational UX 
 * Formatting content for conversation 
 * Real-world applications of conversational agents 
-* Working with foundational models (e.g., BERT, GTP-3) 
+* Working with foundational models (e.g., BERT, GPT-3) 
 * Hybrid approaches to voice and text 
 * Understanding human conversation 
 * Evaluating conversational agent performance 
@@ -112,6 +112,10 @@ All ACM publications follow the [Green Open Access route by default](https://www
 CUI workshops will be held on 19th July 2023 (first day of the conference). You will be provided details about the timings of your workshop closer to the time by the Workshops chairs.
 
 Your proposal will be published in the CUI Proceedings in the [ACM Digital Library](http://dl.acm.org/ "ACM Digital Library"). [SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction") participates in the [ACM Open Table of Contents (OpenTOC)](https://www.acm.org/publications/openaccess "ACM Open Access information") service, which means proposals will be freely available from this website for the first year after publication.
+
+## Submissions
+
+Please send your submission to [cui2023-workshops@conversationaluserinterfaces.org](mailto:cui2023-workshops@conversationaluserinterfaces.org "Make your submission to the workshop chairs").
 
 ## Questions?
 
