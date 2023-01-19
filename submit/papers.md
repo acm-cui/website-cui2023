@@ -72,7 +72,7 @@ A small number of papers that may require further revisions will be shepherded (
 
 ### 4. Prepare your paper for publication
 
-If your paper is accepted, you must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
+If your paper is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
 
 Programme Chairs will send information on how to ready your paper for the publishing process. Word users may be required to reimplement their paper, if accepted, into the correct document format for the publishing process, while LaTeX users will have to adjust their <code>documentclass</code>.
 
