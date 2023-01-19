@@ -5,9 +5,9 @@ description: "The papers track at CUI !!conference.year!! is for original contri
 splash_title: Papers<br>at CUI !!conference.year!!
 
 cta:
-  text: Submissions open soon
-  title: Submissions for the papers track is currently closed
-#  link: /2023/submit/pcs/
+  text: Submissions Open
+  title: Submissions for the papers track is open
+  link: /2023/submit/pcs/
 
 track:
   chairs: papers
@@ -72,7 +72,7 @@ A small number of papers that may require further revisions will be shepherded (
 
 ### 4. Prepare your paper for publication
 
-If your paper is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
+If your paper is accepted, you must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication.
 
 Programme Chairs will send information on how to ready your paper for the publishing process. Word users may be required to reimplement their paper, if accepted, into the correct document format for the publishing process, while LaTeX users will have to adjust their <code>documentclass</code>.
 
