@@ -5,8 +5,8 @@ description: "The papers track at CUI !!conference.year!! is for original contri
 splash_title: Papers<br>at CUI !!conference.year!!
 
 cta:
-  text: Submissions Open
-  title: Submissions for the papers track is open
+  text: Submit now
+  title: Submissions for the papers track are now open
   link: /2023/submit/pcs/
 
 track:

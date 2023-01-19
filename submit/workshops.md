@@ -5,7 +5,7 @@ description: CUI !!conference.year!! will feature a dedicated workshops track, a
 splash_title: Workshops<br>at CUI !!conference.year!!
 
 cta:
-  text: Submit a workshop proposal
+  text: Submit now
   title: Submit a workshop proposal by email
   link: 'mailto:cui2023-workshops@conversationaluserinterfaces.org'
   
