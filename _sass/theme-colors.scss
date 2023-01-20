@@ -59,7 +59,7 @@ nav {
 	-moz-box-shadow: .5rem 9 1rem 0 $sidebar-shadow-color inset;
 	
 	& .sep {
-		border-bottom: 1px solid rgba($secondary,.3);
+		border-bottom: 1px solid $sidebar-border-color;
     }
 }
 
@@ -80,6 +80,6 @@ nav {
 @include media-breakpoint-up(lg) {
     .sidebar {
         border-top: 0;
-        border-left: 1px solid rgba($secondary,.3);
+        border-left: 1px solid $sidebar-border-color;
     }
 }

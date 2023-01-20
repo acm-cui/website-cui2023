@@ -15,7 +15,8 @@ $nav-item-xs-bg          : rgba($body-bg, 0.52);
 $nav-item-xs-bg-hover    : rgba($body-bg, 0.12);
 $nav-item-xs-border      : 1px solid rgba(255,255,255,0.1);
 
-$sidebar-bg              : #000;
+$sidebar-bg              : shift-color($body-bg, 15%);
+$sidebar-border-color    : rgba(255,255,255,.2);
 $sidebar-shadow-color    : rgba(0,0,0,0.15);
 
 $dropdown-bg             : rgba($body-bg, 0.82);
