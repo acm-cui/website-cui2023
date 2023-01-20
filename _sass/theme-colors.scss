@@ -53,7 +53,14 @@ nav {
 }
 
 .sidebar {
-    border-top: 1px solid $secondary;
+	background: $sidebar-bg;
+	box-shadow: .5rem 0 1rem 0 $sidebar-shadow-color inset;
+	-webkit-box-shadow: .5rem 0 1rem 0 $sidebar-shadow-color inset;
+	-moz-box-shadow: .5rem 9 1rem 0 $sidebar-shadow-color inset;
+	
+	& .sep {
+		border-bottom: 1px solid rgba($secondary,.3);
+    }
 }
 
 @include media-breakpoint-up(md) {
@@ -73,6 +80,6 @@ nav {
 @include media-breakpoint-up(lg) {
     .sidebar {
         border-top: 0;
-        border-left: 1px solid $secondary;
+        border-left: 1px solid rgba($secondary,.3);
     }
 }

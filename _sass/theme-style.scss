@@ -29,6 +29,14 @@ header > *, nav, .page-title > *, section {
                 width: map-get($header-logo-ws, $breakpoint);
             }
         }
+        .sidebar, .sidebar-padding {
+        	width: map-get($sidebar-ws, $breakpoint) !important;
+        }
+		.logos.icons {
+			img {
+				max-height: map-get($sidebar-icon-hs, $breakpoint);
+  	    	}
+  	  	}
     }
 }
 
@@ -75,14 +83,9 @@ header > *, nav, .page-title > *, section {
     width: $profile-photo-w;
 }
 
-.logos.icons {
-    img {
-        max-height: 40px
-    }
-}
 .logos.full-width {
     img {
-        max-width: 50%
+        max-width: 300px
     }
 }
 

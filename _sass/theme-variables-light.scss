@@ -14,6 +14,9 @@ $header-bg-gradient      : linear-gradient(180deg, shift-color($primary, -25%) 0
 $header-fg               : #000000;
 $header-border-b         : 3px solid #ffffff;
 
+$sidebar-bg              : #fff;
+$sidebar-shadow-color    : rgba(0,0,0,0.15);
+
 $nav-fg                  : $header-fg;
 $nav-item-xs-bg          : rgba($body-bg, 0.5);
 $nav-item-xs-bg-hover    : rgba($body-bg, 0.3);
