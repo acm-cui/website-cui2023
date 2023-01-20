@@ -85,7 +85,7 @@ header > *, nav, .page-title > *, section {
 
 .logos.full-width {
     img {
-        max-width: 300px
+        max-width: 250px
     }
 }
 
@@ -105,7 +105,15 @@ header > *, nav, .page-title > *, section {
     }
 }
 
-@include media-breakpoint-up(lg) {
+@include media-breakpoint-up(md) {
+    .logos.full-width {
+        img {
+            max-width: 100%
+        }
+    }
+}
+
+@include media-breakpoint-up(xl) {
     .logos.full-width {
         img {
             max-width: 100%
