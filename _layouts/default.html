@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Exo+2&display=swap" rel="stylesheet">
         {%- include header_css.html -%}
         {%- include header_javascript.html -%}
-        {%- if page.name == "index.md" %}
+        {%- if page.url == "/" %}
             <title>Welcome to CUI {{ site.conference.year }}</title>
         {%- else -%}
             <title>
