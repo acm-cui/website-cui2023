@@ -15,7 +15,7 @@ conference:
                 country: Canada
                 image: cosmin-munteanu.jpg
               - name: Martin Porcheron
-                institution: Swansea University
+                institution: Bold Insight
                 country: UK
                 image: martin-porcheron.jpg
         general_assnts:
@@ -100,7 +100,7 @@ conference:
                 country: UK
                 image: jason-nurse.jpg
               - name: Martin Porcheron
-                institution: Swansea University
+                institution: Bold Insight
                 country: UK
                 image: martin-porcheron.jpg
 
