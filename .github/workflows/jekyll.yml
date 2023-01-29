@@ -36,9 +36,8 @@ jobs:
         uses: anvil-solutions/Fast-FTP-Action@latest
         with:
           server: ${{ secrets.FTP_HOST }}
-          server: ${{ secrets.FTP_PORT }}
+          port: ${{ secrets.FTP_PORT }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local_dir: ./_site
-          ftp_ssl_allow: true
 
