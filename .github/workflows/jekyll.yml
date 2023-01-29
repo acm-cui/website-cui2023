@@ -41,6 +41,7 @@ jobs:
           local-dir: ./_site/
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          log-level: verbose
           exclude: |
             **/.git*
             **/.git*/**
