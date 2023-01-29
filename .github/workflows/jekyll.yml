@@ -33,20 +33,11 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: 🌎 Upload to cui.acm.org
-        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        uses: airvzxf/ftp-deployment-action@latest
         with:
           server: ${{ secrets.FTP_HOST }}
-          port: ${{ secrets.FTP_PORT }}
-          protocol: ${{ secrets.FTP_PROTOCOL }}
-          local-dir: ./_site/
-          username: ${{ secrets.FTP_USERNAME }}
+          user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          log-level: verbose
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/node_modules/**
-            **/.DS_Store
-            **/*.sketch
-            **/*.afdesign
+          local_dir: ./_site
+          ftp_ssl_allow: true
 
