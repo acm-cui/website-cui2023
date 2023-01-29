@@ -33,11 +33,10 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: 🌎 Upload to cui.acm.org
-        uses: anvil-solutions/Fast-FTP-Action@latest
+        uses: sebastianpopp/ftp-action
         with:
-          server: ${{ secrets.FTP_HOST }}
-          port: ${{ secrets.FTP_PORT }}
+          host: ${{ secrets.FTP_HOST }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: ./_site
+          localDir: ./_site
 
