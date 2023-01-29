@@ -3,7 +3,7 @@ conference:
     roles:
         general:
             label: General chairs
-            email: 'mailto:cui2023@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023@cui.acm.org'
             contact: true
             people:
               - name: Minha Lee
@@ -20,7 +20,7 @@ conference:
                 image: martin-porcheron.jpg
         general_assnts:
             label: Assistants to the General chairs
-            email: 'mailto:cui2023@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023@cui.acm.org'
             contact: true
             people:
               - name: Renee Noortman
@@ -33,7 +33,7 @@ conference:
                 image: darren-scott.jpg
         programme:
             label: Programme chairs
-            email: 'mailto:cui2023-programme@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-programme@cui.acm.org'
             people:
               - name: Johanne Trippas
                 institution: RMIT
@@ -45,7 +45,7 @@ conference:
                 image: sarah-volkel.png
         local:
             label: Local Organisation chairs
-            email: 'mailto:cui2023-local@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-local@cui.acm.org'
             people:
               - name: Janet Huang
                 institution: Eindhoven University of Technology
@@ -57,7 +57,7 @@ conference:
                 image: alain-starke.jpg
         registration:
             label: Registration chair
-            email: 'mailto:cui2023-registration@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-registration@cui.acm.org'
             people:
               - name: Mateusz Dubiel
                 institution: University of Luxembourg
@@ -65,7 +65,7 @@ conference:
                 image: mateusz-dubiel.jpg
         sv:
             label: Student Volunter chair
-            email: 'mailto:cui2023-sv@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-sv@cui.acm.org'
             people:
               - name: Maria Luce Lupetti
                 institution: Delft University of Technology
@@ -73,7 +73,7 @@ conference:
                 image: maria-luce-lupetti.jpg
         hybrid:
             label: Hybrid Experience chair
-            email: 'mailto:cui2023-hybrid@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-hybrid@cui.acm.org'
             people:
               - name: Justin Edwards
                 institution: University College Dublin
@@ -81,7 +81,7 @@ conference:
                 image: justin-edwards.jpg
         diversity:
             label: Diversity & Accessibility chairs
-            email: 'mailto:cui2023-diversity@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-diversity@cui.acm.org'
             people:
               - name: Razan Jaber
                 institution: Stockholm University
@@ -93,7 +93,7 @@ conference:
                 image: christina-zaga.jpg
         socialmedia:
             label: Social Media & Web chairs
-            email: 'mailto:cui2023-social@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-social@cui.acm.org'
             people:
               - name: Jason Nurse
                 institution: University of Kent
@@ -110,7 +110,7 @@ tracks:
     roles:
         papers:
             label: Papers chairs
-            email: 'mailto:cui2023-papers@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-papers@cui.acm.org'
             people:
               - name: Joel E Fischer
                 institution: University of Nottingham
@@ -126,7 +126,7 @@ tracks:
                 image: jaisie-sin.png
         provocations:
             label: Provocations chairs
-            email: 'mailto:cui2023-provocations@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-provocations@cui.acm.org'
             people:
               - name: Christine Murad
                 institution: University of Toronto
@@ -138,7 +138,7 @@ tracks:
                 image: yanchao-yu.jpg
         postersdemos:
             label: Posters & Demos chairs
-            email: 'mailto:cui2023-postersdemos@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-postersdemos@cui.acm.org'
             people:
               - name: Leigh Clark
                 institution: Bold Insight
@@ -150,7 +150,7 @@ tracks:
                 image: yunhan-wu.jpg
         workshops:
             label: Workshops chairs
-            email: 'mailto:cui2023-workshops@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-workshops@cui.acm.org'
             people:
               - name: Michal Luria
                 institution: Carnegie Mellon University
@@ -162,7 +162,7 @@ tracks:
                 image: bob-moore.jpg
         dc:
             label: Doctoral Consortium chairs
-            email: 'mailto:cui2023-doctoralconsortium@conversationaluserinterfaces.org'
+            email: 'mailto:cui2023-dc@cui.acm.org'
             people:
               - name: Heloisa Candello
                 institution: IBM Research

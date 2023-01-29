@@ -7,7 +7,7 @@ splash_title: Workshops<br>at CUI !!conference.year!!
 cta:
   text: Submit now
   title: Submit a workshop proposal by email
-  link: 'mailto:cui2023-workshops@conversationaluserinterfaces.org'
+  link: 'mailto:cui2023-workshops@cui.acm.org'
   
 track:
   chairs: workshops
@@ -115,7 +115,16 @@ Your proposal will be published in the CUI Proceedings in the [ACM Digital Libra
 
 ## Submissions
 
-Please send your submission to [cui2023-workshops@conversationaluserinterfaces.org](mailto:cui2023-workshops@conversationaluserinterfaces.org "Make your submission to the workshop chairs").
+<p>
+{%- for group in site.data.oc -%}
+{%- for role in group[1]['roles'] -%}
+{%- if role[0] == page.track.chairs -%}
+  Please send your submission to <a href="{{ role[1].email }}" title="Make your submission to the workshop chairs">{{ role[1].label }}</a>.
+  {%- break -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+</p>
 
 ## Questions?
 
