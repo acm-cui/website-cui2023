@@ -3,7 +3,7 @@ label: Travel support
 description: Support for traveling to and attending ACM CUI from SIGCHI.
 
 menus:
-  attendees:
+  attend:
     title: Travel support
     alt: Details about support for CUI !!conference.year!!.
     weight: 5
