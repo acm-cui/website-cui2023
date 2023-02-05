@@ -104,19 +104,3 @@ header > *, nav, .page-title > *, section {
         width: auto !important;
     }
 }
-
-@include media-breakpoint-up(md) {
-    .logos.full-width {
-        img {
-            max-width: 100%
-        }
-    }
-}
-
-@include media-breakpoint-up(xl) {
-    .logos.full-width {
-        img {
-            max-width: 100%
-        }
-    }
-}
