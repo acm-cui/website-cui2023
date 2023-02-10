@@ -56,13 +56,17 @@ conference:
                 country: Netherlands
                 image: alain-starke.jpg
         registration:
-            label: Registration chair
+            label: Registration chairs
             email: 'mailto:cui2023-registration@cui.acm.org'
             people:
               - name: Mateusz Dubiel
                 institution: University of Luxembourg
                 country: Luxembourg
                 image: mateusz-dubiel.jpg
+              - name: Melanie Swallow
+                institution: Eindhoven University of Technology
+                country: Netherlands
+                image: melanie-swallow.jpg
         sv:
             label: Student Volunter chair
             email: 'mailto:cui2023-sv@cui.acm.org'
