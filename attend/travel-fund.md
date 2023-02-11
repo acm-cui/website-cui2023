@@ -6,7 +6,7 @@ menus:
   attend:
     title: Travel support
     alt: Details about support for CUI !!conference.year!!.
-    weight: 5
+    weight: 10
 ---
 
 # Travel support
