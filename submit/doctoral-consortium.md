@@ -34,7 +34,7 @@ The CUI {{ site.conference.year }} Doctoral Consortium is a half-day session whe
 {{ date.label }}: {% if date.extended_date %}<strike>{{ date.date }}</strike> <strong>{{ date.extended_date }}</strong>{% else %}<strong>{{ date.date }}</strong>{% endif %}<br>
 {%- endfor -%}
 
-<em class="small">All deadlines are at 23:59 Anywhere on Earth</em>
+<em class="small"><br>All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
 
 
 ## About the Doctoral Consortium
