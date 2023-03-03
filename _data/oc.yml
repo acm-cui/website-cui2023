@@ -68,13 +68,16 @@ conference:
                 country: Netherlands
                 image: melanie-swallow.jpg
         sv:
-            label: Student Volunter chair
+            label: Student Volunter chairs
             email: 'mailto:cui2023-sv@cui.acm.org'
             people:
               - name: Maria Luce Lupetti
                 institution: Delft University of Technology
                 country: Netherlands
                 image: maria-luce-lupetti.jpg
+              - name: Maike Paetzel-Prüsmann
+                institution: Disney Research
+                country: Switzerland
         hybrid:
             label: Hybrid Experience chair
             email: 'mailto:cui2023-hybrid@cui.acm.org'
