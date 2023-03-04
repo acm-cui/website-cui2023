@@ -5,9 +5,10 @@ description: CUI !!conference.year!! will feature a dedicated workshops track, a
 splash_title: Workshops<br>at CUI !!conference.year!!
 
 cta:
-  text: Submit now
-  title: Submit a workshop proposal by email
-  link: 'mailto:cui2023-workshops@cui.acm.org'
+  text: Submissions close
+  title: Submissions for workshop proposals have now closed
+#  title: Submit a workshop proposal by email
+#  link: 'mailto:cui2023-workshops@cui.acm.org'
   
 track:
   chairs: workshops
