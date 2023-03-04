@@ -4,7 +4,7 @@ description: Venue information for !!conference.full_name!! !!conference.year!! 
 
 menus:
   attend:
-    title: Conference venue
+    title: Venue
     alt: Details about the CUI !!conference.year!! conference venue.
     weight: 5
 ---

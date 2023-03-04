@@ -7,6 +7,7 @@ menus:
     title: Travel support
     alt: Details about support for CUI !!conference.year!!.
     weight: 10
+    sep_before: true
 ---
 
 # Travel support
