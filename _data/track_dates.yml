@@ -60,7 +60,8 @@ dc:
 
 workshops:
   -  label: Submissions due
-     date: Thursday 2nd March 2023
+     date: 2nd
+     extended_date: Wednesday 22nd March 2023
 
   -  label: Notifications
      date: Friday 14th April 2023
