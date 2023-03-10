@@ -7,7 +7,7 @@ splash_title: Workshops<br>at CUI !!conference.year!!
 cta:
   text: Submit now
   #title: Submissions for workshop proposals have now closed
-  title: Submit a workshop proposal by email
+  title: Submissions for workshop proposals are now open
   link: 'mailto:cui2023-workshops@cui.acm.org'
   
 track:

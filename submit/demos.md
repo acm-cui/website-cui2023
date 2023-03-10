@@ -5,9 +5,9 @@ description: The Demos track at CUI !!conference.year!! allows authors to presen
 splash_title: Demos<br>at CUI !!conference.year!!
 
 cta:
-  text: Submissions not open yet
-  title: Submissions for the demos track is currently closed
-#  link: /2023/submit/pcs/
+  text: Submit now
+  title: Submissions for the demos track are now open
+  link: /2023/submit/pcs/
   
 track:
   chairs: postersdemos
