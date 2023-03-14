@@ -36,4 +36,11 @@ Hotel Marienhage is offering a 10% discount on the best available rate for CUI a
 
 Please book using [this booking link](https://book.marienhage.com/nl?stay_detail%5Brateplan_id%5D=CUI2023 "Book a room at Hotel Marienhage") to book your room directly with the hotel.
 
+## Crown Hotel
+**Address:** Vestdijk 14-16, 5611 CC Eindhoven<br>
+**Distance from TU/e:** 1.1km/13 minute walk/5 minute bike ride
 
+Please book using [this booking link](https://be.synxis.com/?Hotel=51171&Chain=12113&arrive=2023-07-18&depart=2023-07-22&adult=1&child=0&promo=NEGTUEG "Book a room at Crown Hotel") to book your room directly with the hotel.
+
+
+	
