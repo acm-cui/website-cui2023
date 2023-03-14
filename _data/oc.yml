@@ -78,6 +78,7 @@ conference:
               - name: Maike Paetzel-Prüsmann
                 institution: Disney Research
                 country: Switzerland
+                image: maike-paetzel-prusmann.jpg
         hybrid:
             label: Hybrid Experience chair
             email: 'mailto:cui2023-hybrid@cui.acm.org'
