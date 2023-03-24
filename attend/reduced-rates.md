@@ -1,21 +1,24 @@
 ---
-label: Reduced Rate Eligibility
-description: Details about the reduced rate for !!conference.year!! !!conference.full_name!! for individuals who live in an economically developing country.
+label: Discounted Registration Eligibility
+description: Details about the reduced rate for CUI !!conference.year!! attendees who live in an economically developing country.
+
+title: Registration Reduced Rate Eligibility
+splash_title: Countries eligible for<br>a registration discount
 
 registration_open: false
 
 menus:
-  attendees:
-    title: Reduced Rate Eligibility
-    alt: Reduced Rate Eligibility for participates from economically developing countries.
-    weight: 1
+  attend:
+    title: Discounted Registration
+    alt: Discounted registration eligibility for attendees from economically developing countries.
+    weight: 8
 ---
 
-# Registration Reduced Rate Eligibility
-The Reduced Rate registration is open to all individuals who live in one of the following economically developing countries. We have followed the approach that the [ACM has developed for reduced ACM membership rates](https://www.acm.org/membership/special-member-rates-developing-countries "ACM reduced mebership rate countries").
+
+CUI {{ site.conference.year }} registration is discounted by 25% for all individuals who live in one of the following economically developing countries. We have followed the approach that the [ACM has developed for reduced ACM membership rates](https://www.acm.org/membership/special-member-rates-developing-countries "ACM reduced mebership rate countries").
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		A
 	</div>
 
@@ -31,7 +34,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		B
 	</div>
 
@@ -52,7 +55,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		C
 	</div>
 
@@ -75,7 +78,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		D
 	</div>
 
@@ -89,7 +92,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		E
 	</div>
 
@@ -104,7 +107,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		F
 	</div>
 
@@ -116,7 +119,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		G
 	</div>
 
@@ -135,7 +138,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		H
 	</div>
 
@@ -146,7 +149,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		I
 	</div>
 
@@ -160,7 +163,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		J
 	</div>
 
@@ -171,7 +174,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		K
 	</div>
 
@@ -185,7 +188,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		L
 	</div>
 
@@ -199,7 +202,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		M
 	</div>
 
@@ -223,7 +226,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		N
 	</div>
 
@@ -239,7 +242,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		P
 	</div>
 
@@ -255,7 +258,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		R
 	</div>
 
@@ -268,7 +271,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		S
 	</div>
 
@@ -293,7 +296,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		T
 	</div>
 
@@ -312,7 +315,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		U
 	</div>
 
@@ -324,7 +327,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		V
 	</div>
 
@@ -336,7 +339,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		Y
 	</div>
 
@@ -346,7 +349,7 @@ The Reduced Rate registration is open to all individuals who live in one of the 
 </div>
 
 <div class="d-flex flex-row mb-3">
-	<div class="bg-primary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
+	<div class="bg-secondary text-white border-1 font-weight-bold text-large text-uppercase text-center py-3 d-inline-block rounded" style="width: 4rem">
 		Z
 	</div>
 

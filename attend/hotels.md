@@ -6,7 +6,8 @@ menus:
   attend:
     title: Hotels
     alt: Details about discounted hotels available for CUI !!conference.year!! conference.
-    weight: 4
+    weight: 5
+    sep_before: true
 ---
 
 # Hotel information

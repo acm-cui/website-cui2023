@@ -2,17 +2,18 @@
 label: Travel support
 description: Support for traveling to and attending ACM CUI from SIGCHI.
 
+title: Travel support
+splash_title: Support for travelling<br>to CUI !!conference.year!!
+
 menus:
   attend:
-    title: Travel support
+    title: Financial Support
     alt: Details about support for CUI !!conference.year!!.
-    weight: 10
+    weight: 7
     sep_before: true
 ---
 
-# Travel support
-
-SIGCHI offers two programs that can benefit CUI attendees: the [Gary Marsden Travel Award (GMTA)](https://sigchi.org/awards/gary-marsden-travel-awards/ "Information about the Gary Marsden Travel Award") and the [SIGCHI Development Fund (SDF)](https://sigchi.org/resources/sigchi-development-fund/ "Information about the SIGCHI Development Fund").
+[SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction") offers two programs that can benefit CUI attendees: the [Gary Marsden Travel Award (GMTA)](https://sigchi.org/awards/gary-marsden-travel-awards/ "Information about the Gary Marsden Travel Award") and the [SIGCHI Development Fund (SDF)](https://sigchi.org/resources/sigchi-development-fund/ "Information about the SIGCHI Development Fund").
 
 The Gary Marsden Travel Award program support SIGCHI members (students or professionals) attending SIGCHI conferences. It provides complimentary registration and travel grants for those who need financial help or lack institutional support.
 
