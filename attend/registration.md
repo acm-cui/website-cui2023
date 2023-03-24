@@ -159,7 +159,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 	</tbody>
 </table>
 
-For member rates, you must be a member of [ACM](https://acm.org "The Association for Computing Machinery")  and/or [SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction"). You will be required to register using the same email address as your ACM account.
+For member rates, you must be a member of [ACM](https://acm.org "The Association for Computing Machinery") and/or [SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction"). You will be required to register using the same email address as your ACM account.
 
 The advertised student rates are restricted to registered and currently active students only, you may be asked to provide evidence of your student status. If you cannot provide proof of student status, you will be required to register as a _professional_ attendee.
 

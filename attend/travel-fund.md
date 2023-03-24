@@ -9,8 +9,7 @@ menus:
   attend:
     title: Financial Support
     alt: Details about support for CUI !!conference.year!!.
-    weight: 7
-    sep_before: true
+    weight: 8
 ---
 
 [SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction") offers two programs that can benefit CUI attendees: the [Gary Marsden Travel Award (GMTA)](https://sigchi.org/awards/gary-marsden-travel-awards/ "Information about the Gary Marsden Travel Award") and the [SIGCHI Development Fund (SDF)](https://sigchi.org/resources/sigchi-development-fund/ "Information about the SIGCHI Development Fund").
