@@ -39,7 +39,7 @@ Please ensure you register at the correct rate—if you do not, you will be liab
 There are four different rates for registration at CUI {{ site.conference.year }} in-person and two different registration deadlines:
 
 * Early registration closes on **15th June 2023**
-* Late registration closes on **19th July 2023**.
+* Late registration closes on **19th July 2023**
 
 <table class="registration-rates mx-auto mt-4 mb-3 text-center d-md-block d-none">
 	<thead class="border-bottom">
@@ -95,7 +95,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan="2" class="small py-3 border-bottom text-start text-secondary"><strong>In-person attendance</strong></td>
+			<td colspan="3" class="small py-3 border-bottom text-start text-secondary"><strong>In-person attendance</strong></td>
 		</tr>
 		<tr class="mb-3 ">
 				<td class="pe-3 py-3"><strong>Early</strong></td>
@@ -113,7 +113,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 				<td class="py-3">€450</td>
 		</tr>
 		<tr>
-			<td colspan="2" class="small py-3 text-start text-secondary"><strong>Virtual attendance</strong></td>
+			<td colspan="3" class="small py-3 text-start text-secondary"><strong>Virtual attendance</strong></td>
 		</tr>
 		<tr class="pt-5 pb-3 border-top">
 				<td class="pe-3 py-3"></td>
@@ -131,9 +131,9 @@ There are four different rates for registration at CUI {{ site.conference.year }
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan="2" class="small py-3 border-bottom text-start text-secondary"><strong>In-person attendance</strong></td>
+			<td colspan="3" class="small py-3 border-bottom text-start text-secondary"><strong>In-person attendance</strong></td>
 		</tr>
-		<tr class="mb-3 ">
+		<tr class="mb-3">
 				<td class="pe-3 py-3"><strong>Early</strong></td>
 				<td class="py-3">€550</td>
 				<td class="py-3">€450</td>
@@ -149,7 +149,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 				<td class="py-3">€675</td>
 		</tr>
 		<tr>
-			<td colspan="2" class="small py-3 text-start text-secondary"><strong>Virtual/online attendance</strong></td>
+			<td colspan="3" class="small py-3 text-start text-secondary"><strong>Virtual/online attendance</strong></td>
 		</tr>
 		<tr class="pt-5 pb-3 border-top">
 				<td class="pe-3 py-3"></td>
@@ -162,6 +162,8 @@ There are four different rates for registration at CUI {{ site.conference.year }
 For member rates, you must be a member of [ACM](https://acm.org "The Association for Computing Machinery") and/or [SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction"). You will be required to register using the same email address as your ACM account.
 
 The advertised student rates are restricted to registered and currently active students only, you may be asked to provide evidence of your student status. If you cannot provide proof of student status, you will be required to register as a _professional_ attendee.
+
+All registration fees above are inclusive of Value Added Tax (VAT), which is charged at 21%.
 
 ### Reduced rate for economically developing countries
 
