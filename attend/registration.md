@@ -51,7 +51,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan="2" class="small py-3 border-bottom text-start text-secondary"><strong>In-person attendance</strong></td>
+			<td colspan="5" class="small py-3 border-bottom text-start text-secondary"><strong>In-person attendance</strong></td>
 		</tr>
 		<tr class="mb-3 ">
 				<td class="pe-3 py-3"><strong>Early</strong></td>
