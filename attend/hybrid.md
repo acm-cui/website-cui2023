@@ -16,7 +16,7 @@ menus:
 
 Each track of CUI {{ site.conference.year }} will include synchronous and asynchronous hybrid experiences during the conference. Hybrid experiences include:
 
-### Papers
+## Papers
 Paper presentations will be livestreamed over [Zoom](https://zoom.us "Zoom.us official website"). Synchronous question and answer session with each author will take place after each presentations, with session chairs and student volunteers ensuring that  in-person participants queue for a single microphone so that remote participants can hear questions, and remote participants will be able to virtually cue to ask their questions as well. Asynchronous discussion for each paper will continue in the CUI Discord server, with channels dedicated to each paper session.
 
 If you are not a member of the CUI Discord server, you can [join us here](https://discord.gg/UeSDC2MyhH "Join the CUI Discord server").
