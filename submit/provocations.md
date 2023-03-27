@@ -54,7 +54,7 @@ All submissions will proceed through the following process. Please contact the <
 
 ### 1. Prepare your paper
 
-Submissions of provocations must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2022 Anonymization Policy"), and approximately **3,000-3,5000 words** (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments).
+Submissions of provocations must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2022 Anonymization Policy"), and approximately **3,000-3,500 words** (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments).
 
 You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates for Microsoft Word and LaTeX") to prepare your submission.  LaTeX users may start their work by using the official ACM template available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc "ACM Primary Article Template templates on Overleaf"), which we strongly encourage. LaTeX users should have the following document class: <code>\documentclass[sigconf, screen, review, anonymous]{acmart}</code> for submission.
 
