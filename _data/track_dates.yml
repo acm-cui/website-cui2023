@@ -9,11 +9,14 @@ papers:
   -  label: Notifications
      date: Thursday 6th April 2023
 
-  -  label: Shepherded & conditionally-accepted drafts due
+  -  label: Conditionally-accepted drafts due
      date: Thursday 20th April 2023
 
-  -  label: Final notifications due
+  -  label: Shepherded drafts due
      date: Thursday 27th April 2023
+
+  -  label: Final notifications sent
+     date: Monday 5th April 2023
 
   -  label: Camera ready/TAPS due
      date: Monday 5th June 2023
