@@ -6,7 +6,7 @@ papers:
      date: 22nd
      extended_date: Sunday 26th February 2023
 
-  -  label: Notifications
+  -  label: Notifications sent
      date: Thursday 6th April 2023
 
   -  label: Conditionally-accepted drafts due
@@ -16,7 +16,7 @@ papers:
      date: Thursday 27th April 2023
 
   -  label: Final notifications sent
-     date: Monday 5th April 2023
+     date: Monday 5th May 2023
 
   -  label: Camera ready/TAPS due
      date: Monday 5th June 2023
@@ -25,7 +25,7 @@ provocations:
   -  label: Submissions due
      date: Monday 17th April 2023
 
-  -  label: Notifications
+  -  label: Notifications sent
      date: Monday 15th May 2023
 
   -  label: Camera ready/TAPS due
@@ -35,7 +35,7 @@ posters:
   -  label: Submissions due
      date: Monday 17th April 2023
 
-  -  label: Notifications
+  -  label: Notifications sent
      date: Monday 15th May 2023
 
   -  label: Camera ready/TAPS due
@@ -45,7 +45,7 @@ demos:
   -  label: Submissions due
      date: Monday 17th April 2023
 
-  -  label: Notifications
+  -  label: Notifications sent
      date: Monday 15th May 2023
 
   -  label: Camera ready/TAPS due
@@ -55,7 +55,7 @@ dc:
   -  label: Applications due
      date: Monday 17th April 2023
 
-  -  label: Notifications
+  -  label: Notifications sent
      date: Monday 15th May 2023
 
   -  label: Doctoral Consortium
@@ -66,7 +66,7 @@ workshops:
      date: 2nd
      extended_date: Wednesday 22nd March 2023
 
-  -  label: Notifications
+  -  label: Notifications sent
      date: Friday 14th April 2023
 
   -  label: Camera ready/TAPS due
@@ -79,5 +79,5 @@ featured_talks:
   -  label: Submissions due
      date: 21st May 2021
 
-  -  label: Notifications
+  -  label: Notifications sent
      date: 4th June 2021
