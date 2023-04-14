@@ -3,7 +3,7 @@ papers:
      date: Wednesday 15th February 2023
 
   -  label: Papers due
-     date: 22nd
+     date: Wednesday 22nd
      extended_date: Sunday 26th February 2023
 
   -  label: Notifications sent
@@ -23,7 +23,8 @@ papers:
 
 provocations:
   -  label: Submissions due
-     date: Monday 17th April 2023
+     date: Monday 17th
+     extended_date: Thursday 20th April 2023
 
   -  label: Notifications sent
      date: Monday 15th May 2023
@@ -34,6 +35,7 @@ provocations:
 posters:
   -  label: Submissions due
      date: Monday 17th April 2023
+     extended_date: Thursday 20th April 2023
 
   -  label: Notifications sent
      date: Monday 15th May 2023
@@ -43,7 +45,8 @@ posters:
 
 demos:
   -  label: Submissions due
-     date: Monday 17th April 2023
+     date: Monday 17th
+     extended_date: Thursday 20th April 2023
 
   -  label: Notifications sent
      date: Monday 15th May 2023
@@ -63,7 +66,7 @@ dc:
 
 workshops:
   -  label: Submissions due
-     date: 2nd
+     date: Thursday 2nd
      extended_date: Wednesday 22nd March 2023
 
   -  label: Notifications sent
