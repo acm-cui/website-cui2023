@@ -41,7 +41,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 * Early registration closes on **15th June 2023**
 * Late registration closes on **19th July 2023**
 
-<table class="registration-rates mx-auto mt-4 mb-3 text-center d-md-block d-none">
+<table class="registration-rates mx-auto mt-4 mb-3 text-center d-md-table d-none">
 	<thead class="border-bottom">
 		<th></th>
 		<th class="px-3 pb-3 align-top text-center">Student</th>
@@ -87,7 +87,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 	</tbody>
 </table>
 
-<table class="registration-rates w-100 mx-auto border-bottom mt-4 text-center d-md-none d-block">
+<table class="registration-rates w-100 mx-auto border-bottom mt-4 text-center d-md-none d-table">
 	<thead class="border-bottom">
 		<th></th>
 		<th class="px-3 py-3 align-top text-center">Student</th>
@@ -123,7 +123,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 	</tbody>
 </table>
 
-<table class="registration-rates border-top w-100 mx-auto mt-1 mb-3 text-center  d-md-none d-block">
+<table class="registration-rates border-top w-100 mx-auto mt-1 mb-3 text-center  d-md-none d-table">
 	<thead class="border-bottom">
 		<th></th>
 		<th class="px-3 py-3 align-top text-center">Professional</th>
