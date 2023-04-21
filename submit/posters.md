@@ -5,9 +5,9 @@ description: The posters track at CUI !!conference.year!! allows for the present
 splash_title: Posters<br>at CUI !!conference.year!!
 
 cta:
-  text: Submit now
-  title: Submissions for the posters track are now open
-  link: /2023/submit/pcs/
+  text: Submissions closed
+  title: The submission deadline for the posters track has passed
+#  link: /2023/submit/pcs/
   
 track:
   chairs: postersdemos
