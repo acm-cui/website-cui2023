@@ -4,10 +4,10 @@ description: "The papers track at CUI !!conference.year!! is for original contri
 
 splash_title: Papers<br>at CUI !!conference.year!!
 
-  cta:
+ cta:
     text: Submissions closed
     title: The submission deadline for the papers track has passed
-  #  link: /2023/submit/pcs/
+ #  link: /2023/submit/pcs/
 
 track:
   chairs: papers
