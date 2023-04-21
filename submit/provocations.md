@@ -5,9 +5,9 @@ description: Provocation papers at CUI !!conference.year!! explore controversial
 splash_title: Provocations<br>at CUI !!conference.year!!
 
 cta:
-  text: Submit now
-  title: Submissions for the provocations track are now open
-  link: /2023/submit/pcs/
+  text: Submissions closed
+  title: The submission deadline for the provocations track has passed
+#  link: /2023/submit/pcs/
   
 track:
   chairs: provocations
