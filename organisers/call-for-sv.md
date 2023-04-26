@@ -5,10 +5,10 @@ description: We're looking for students to volunteer to support the running of C
 title: Student Volunteering
 splash_title: Student Volunteering<br>at CUI !!conference.year!!
 
-cta:
-  text: Volunteer now
-  title: Become a CUI !!conference.year!! Student Volunteer
-  link: https://docs.google.com/forms/d/e/1FAIpQLScmZ-sO_uquP0tzLG0xD0niM7zyHWC0bmiy3s9AGrrYMgZ6Fw/viewform
+#cta:
+#  text: Volunteer now
+#  title: Become a CUI !!conference.year!! Student Volunteer
+#  link: https://docs.google.com/forms/d/e/1FAIpQLScmZ-sO_uquP0tzLG0xD0niM7zyHWC0bmiy3s9AGrrYMgZ6Fw/viewform
 
 menus:
   organisers:
@@ -41,10 +41,10 @@ The call for SV will open on **Monday 27th March 2023** and will be closed on **
 
 The selection result will be announced on **Monday 8th May 2023**. Once you have a confirmed spot and registration is open you will be required to register. You will receive instructions on how to do this after your application is confirmed. If you are placed on the waitlist and a spot becomes available, you will be informed about this immediately.
 
-
+<!--
 <div class="text-center mb-3">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScmZ-sO_uquP0tzLG0xD0niM7zyHWC0bmiy3s9AGrrYMgZ6Fw/viewform" class="my-3 btn btn-lg btn-dark text-light border" title="Become a CUI {{ site.conference.year }} Student Volunteer">Volunteer now →</a>
-</div>
+</div>-->
 
 ## Important Dates
 
