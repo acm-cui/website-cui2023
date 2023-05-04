@@ -6,13 +6,13 @@ title: Registration
 splash_title: Register for CUI !!conference.year!!
 
 cta:
-  text: Registration opens soon
-  title: Registration for ACM CUI is not yet open
-#  text: Register now
-#  title: Registration for ACM CUI is open now
-#  link: https://www.example.com
+#  text: Registration opens soon
+#  title: Registration for ACM CUI is not yet open
+  text: Register now
+  title: Registration for ACM CUI is open now
+  link: https://cvent.me/A8XxdO
 
-registration_open: false
+registration_open: true
 
 menus:
   attend:
@@ -163,7 +163,7 @@ For member rates, you must be a member of [ACM](https://acm.org "The Association
 
 The advertised student rates are restricted to registered and currently active students only, you may be asked to provide evidence of your student status. If you cannot provide proof of student status, you will be required to register as a _professional_ attendee.
 
-All registration fees above are inclusive of Value Added Tax (VAT), which is charged at 21%.
+All registration fees above are inclusive of Value Added Tax (VAT), which is charged at 21%. The registration system shows prices excluding VAT.
 
 ### Reduced rate for economically developing countries
 
