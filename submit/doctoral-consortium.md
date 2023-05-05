@@ -7,7 +7,7 @@ splash_title: Doctoral Consortium<br>at CUI !!conference.year!!
 cta:
   text: Apply now
   title: Applications to attend the doctoral consortium are open
-  link: https://docs.google.com/forms/d/1VitXQLhYOTkFWvpwv8ecDzpyHtrLFK_6Rp7Q_sWQzXE/viewform?ts=63908015&edit_requested=true 
+  link: mailto:cui2023-dc@cui.acm.org
   
 track:
   chairs: dc
@@ -75,7 +75,7 @@ Incomplete applications will be rejected.
 
 ### 2. Submit your application
 
-You should submit your application to this [Google Form](https://docs.google.com/forms/d/1VitXQLhYOTkFWvpwv8ecDzpyHtrLFK_6Rp7Q_sWQzXE/viewform?ts=63908015&edit_requested=true "CUI {{ site.conference.year }} Doctoral Consortium application form"). 
+You should submit your application by email to [cui2023-dc@cui.acm.org](mailto:cui2023-dc@cui.acm.org "CUI {{ site.conference.year }} Doctoral Consortium application email address"), making sure to include your full name, affiliation, and preferred contact email in the submission email text, as well as your extended abstract.
 
 
 ### 3. Selection process – curated
