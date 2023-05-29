@@ -5,9 +5,10 @@ description: The CUI !!conference.year!! Doctoral Consortium is a half-day sessi
 splash_title: Doctoral Consortium<br>at CUI !!conference.year!!
 
 cta:
-  text: Apply now
-  title: Applications to attend the doctoral consortium are open
-  link: mailto:cui2023-dc@cui.acm.org
+  title: Applications closed
+#  text: Apply now -->
+  title: Applications to attend the doctoral consortium are now closed
+#  link: mailto:cui2023-dc@cui.acm.org
   
 track:
   chairs: dc
