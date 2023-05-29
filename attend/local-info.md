@@ -9,7 +9,7 @@ menus:
   attend:
     title: Guide to Eindhoven
     alt: How we are working to ensure that CUI !!conference.year!! is accessible for all attendees
-    weight: 3
+    weight: 4
 ---
 
 Welcome to Eindhoven, nicknamed the City of Light. Not a particularly original nickname, but a very (retro)fitting one for a city in which lightbulb manufacturer Philips played a pivotal role. Although the name is attributed to the 19th century’s matchstick industry, traces of Philips can be found everywhere. Whether it's the Light Tower in the city center, the Philips Museum, or the former industrial area Strijp-S, the identity of Eindhoven is interwoven with Philips. The manufacturer built housing for its employees in the first decades of the 20th century, while today there are also many light-themed events, such as the ‘Lichtjesroute’ and ‘Glow Eindhoven’.
