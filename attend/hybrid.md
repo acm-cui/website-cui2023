@@ -9,7 +9,8 @@ menus:
   attend:
     title: Hybrid Experience
     alt: Information about how different CUI activities will be available online for those attending remotely.
-    weight: 4
+    weight: 6
+    sep_before: true
 ---
 
 [SIGCHI](https://sigchi.org " ACM Special Interest Group on Computer-Human Interaction") participates in the [ACM Open Table of Contents (OpenTOC)](https://www.acm.org/publications/openaccess "ACM Open Access information") service, which means all papers and extended abstracts will be freely available from this website for the first year after publication. HTML versions will be available from the [ACM Digital Library](https://dl.acm.org "The ACM Digital Library") for those with access.

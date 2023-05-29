@@ -9,7 +9,8 @@ menus:
   attend:
     title: Workshops
     alt: Workshops hosted at CUI !!conference.year!!.
-    weight: 0
+    weight: 2
+    sep_before: true
   programme:
     title: Workshops
     alt: Workshops hosted at CUI !!conference.year!!.

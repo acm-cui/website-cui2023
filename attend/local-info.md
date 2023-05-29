@@ -1,13 +1,13 @@
 ---
 label: Local Information
-description: How we are working to ensure that CUI !!conference.year!! is accessible for all attendees.
+description: A short tourist guide of things to eat and see in Eindhoven!
 
 title: Local Information
 splash_title: Welcome to Eindhoven de Gekste!
 
 menus:
   attend:
-    title: Local Information
+    title: Guide to Eindhoven
     alt: How we are working to ensure that CUI !!conference.year!! is accessible for all attendees
     weight: 3
 ---

@@ -7,7 +7,7 @@ splash_title: Travel information<br>for CUI !!conference.year!!
 
 menus:
   attend:
-    title: Travel Information
+    title: Traveling to CUI
     alt: Details about how to travel to ACM CUI !!conference.year!!.
     weight: 2
     sep_before: true
