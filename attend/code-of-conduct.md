@@ -9,5 +9,5 @@ menus:
     title: Code of Conduct
     alt: CUI !!conference.year!! is enforcing the SIGCHI Code of Conduct
     sep_before: true
-    weight: 11
+    weight: 10
 ---

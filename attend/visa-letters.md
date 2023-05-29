@@ -7,7 +7,7 @@ splash_title: Information about support<br>for visas for ACM CUI
 
 menus:
   attend:
-    title: Visa Information
+    title: Visa Support Letters
     alt: Information about support for visas for ACM CUI.
     weight: 7
 ---

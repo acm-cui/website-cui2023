@@ -11,7 +11,7 @@ menus:
   attend:
     title: Discounted Registration
     alt: Discounted registration eligibility for attendees from economically developing countries.
-    weight: 10
+    weight: 9
 ---
 
 

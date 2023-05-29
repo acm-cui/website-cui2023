@@ -6,7 +6,7 @@ menus:
   attend:
     title: Conference Venue
     alt: Details about the CUI !!conference.year!! conference venue.
-    weight: 3
+    weight: 5
 ---
 
 # CUI !!conference.year!! venue information
