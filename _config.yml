@@ -59,8 +59,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-menus
+  - jekyll-target-blank
 #  - jekyll-datapage-generator
-#  - jekyll-target-blank
 #  - jekyll-github-metadata
 
 # Liquid config

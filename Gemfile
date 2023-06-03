@@ -28,6 +28,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2'
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'
+  gem 'jekyll-target-blank'
   gem 'jekyll-titles-from-headings'
   gem "jekyll-menus", :git => "https://github.com/forestryio/jekyll-menus.git"
 end

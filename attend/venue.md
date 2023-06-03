@@ -18,7 +18,7 @@ menus:
         <strong>CUI {{ site.conference.year }}</strong> will be held at <strong><a href="https://www.tue.nl/en/our-university/tue-campus/buildings/atlas/" title="AT at the Eindhoven University of Technology" target="_blank">ATLAS, Eindhoven, The Netherlands</a></strong>. The venue is located on the Eindhoven University of Technology (TU/e) campus and can be easily reached by foot from Eindhoven Centraal train station in 10 minutes. The city centre is also within walking distance.
         </p>
 
-        <p>Those travelling by car can park next to the Vertigo building  <span class="small">(<a href="https://www.google.com/maps/place/51°26'45.0%22N+5°29'09.3%22E/@51.4461585,5.4848548,187m/data=!3m1!1e3!4m5!3m4!1s0x0:0xaab8a31b70e7b460!8m2!3d51.4457978!4d5.4858424" title="The Vertigo building at TU/e" target="_blank">Google Maps</a>, <a href="https://maps.apple.com/?address=5612%20AV%20Eindhoven,%20Netherlands&auid=7248368960337777094&ll=51.446500,5.485091&lsp=9902&q=TU/e%20-%20Vertigo&t=h" title="The Vertigo building at TU/e" target="_blank">Apple Maps</a>)</span> or use any of the parking facilities on campus.
+        <p>Those travelling by car can park next to the Vertigo building  <span class="small">(<a href="https://goo.gl/maps/CMZs2kiw4LHT7sxM9" title="The Vertigo building at TU/e" target="_blank">Google Maps</a>, <a href="https://maps.apple.com/?address=5612%20AV%20Eindhoven,%20Netherlands&auid=7248368960337777094&ll=51.446500,5.485091&lsp=9902&q=TU/e%20-%20Vertigo&t=h" title="The Vertigo building at TU/e" target="_blank">Apple Maps</a>)</span> or use any of the parking facilities on campus.
         </p>
     </div>
 
