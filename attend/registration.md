@@ -163,6 +163,8 @@ For member rates, you must be a member of [ACM](https://acm.org "The Association
 
 The advertised student rates are restricted to registered and currently active students only, you may be asked to provide evidence of your student status. If you cannot provide proof of student status, you will be required to register as a _professional_ attendee.
 
+Workshops and the doctoral consortium are €75 each and must be registered for using ths registration system. If you have already registered, you can update your registration.
+
 All registration fees above are inclusive of Value Added Tax (VAT), which is charged at 21%. The registration system shows prices excluding VAT.
 
 ### Reduced rate for economically developing countries
