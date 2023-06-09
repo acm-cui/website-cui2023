@@ -22,7 +22,7 @@ We are delighted to announce that CUI {{ site.conference.year }} features two ke
 
 ## Effie Law: Trust and Emotion Resilience for Customer Service Chatbots with Breakdowns
 
-<div class="d-flex flex-row">
+<div class="d-flex flex-md-row flex-column">
 	<div class="flex-grow-1 pe-3">
 	<p>
 		Trust, among others, is a decisive factor for determining users’ acceptance and adoption of chatbots. Trust is even more critical when essential services such as finance and healthcare are delivered through such AI-infused digital agents. Our recent research work has investigated how different factors influencing trust in a banking chatbot. They include the chatbot’s humanlikeness and conversational performance (i.e., breakdown with/without repair), the user’s attributes, the nature of the task performed with the chatbot, and the timing of the breakdown. Furthermore, we have examined how emotional responses are related to trust in the chatbot. A series of crowdsourcing studies have been conducted with hundreds of users. Results suggest that trust and emotion resilience prevail. Users tend to forgive the imperfections of the chatbot when it behaves normally again after a breakdown. These intriguing findings can have significant implications for the design of customer service chatbots.
@@ -39,7 +39,7 @@ We are delighted to announce that CUI {{ site.conference.year }} features two ke
 
 ## Catherine Pelachaud: Adaption mechanisms for Socially Interactive Agents
 
-<div class="d-flex flex-row">
+<div class="d-flex flex-md-row flex-column">
 	<div class="flex-grow-1 pe-3">
 	<p>
 	During an interaction, humans continuously adapt their behaviors at different levels involving formality of language, imitation, synchronization, etc. We are working on modeling several of such adaptation mechanisms into Socially Interactive Agents, i.e. virtual agents capable of interacting socially with human partners. We have developed models that act at the conversational strategies level or at the multimodal signals one. These models drive the behaviors of these agents. They were evaluated through perceptive studies where human participants interact with them in real-time. In this talk I will present these different adaption mechanisms, the architecture of the human-agent platform in which they are implemented and the evaluation studies we conducted.
