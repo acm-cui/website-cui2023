@@ -33,7 +33,7 @@ We are delighted to announce that CUI {{ site.conference.year }} features two ke
     </em>
     </div>
         
-    <img src="{{ "/assets/img/keynotes/effie-law.png" | relative_url }}" alt="A photograph of Effie Law" title="Effie Law" class="flex-grow-0 align-self-start">
+    <img src="{{ "/assets/img/keynotes/effie-law.png" | relative_url }}" alt="A photograph of Effie Law" title="Effie Law" class="flex-grow-0 align-self-start mt-md-0 mt-3">
 </div>
 
 
@@ -50,5 +50,5 @@ We are delighted to announce that CUI {{ site.conference.year }} features two ke
 	</em>
     </div>
         
-	<img src="{{ "/assets/img/keynotes/catherine-pelachaud.png" | relative_url }}" alt="A photograph of Catherine Pelachaud" title="Catherine Pelachaud" class="flex-grow-0 align-self-start">
+	<img src="{{ "/assets/img/keynotes/catherine-pelachaud.png" | relative_url }}" alt="A photograph of Catherine Pelachaud" title="Catherine Pelachaud" class="flex-grow-0 align-self-start mt-md-0 mt-3">
 </div>
