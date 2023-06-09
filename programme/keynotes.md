@@ -50,5 +50,5 @@ We are delighted to announce that CUI {{ site.conference.year }} features two ke
 	</em>
     </div>
         
-	<img src="{{ "/assets/img/keynotes/catherine-pelachaud.png" | relative_url }}" alt="A photograph of Catherine Pelachaud" title="Catherine Pelachaud" class="flex-grow-0 align-self-start mt-md-0 mt-3">
+	<img src="{{ "/assets/img/keynotes/catherine-pelachaud.png" | relative_url }}" alt="A photograph of Catherine Pelachaud" title="Catherine Pelachaud" class="flex-grow-0 align-self-start mx-md-0 mx-auto mt-md-0 mt-3">
 </div>
