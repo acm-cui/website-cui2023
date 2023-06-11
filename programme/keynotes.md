@@ -1,7 +1,7 @@
 ---
 label: Conference keynotes
 description: >
-  !!conference.short_name!! !!conference.year!! will feature two keynotes from distinguished academics: Effie Law from Durham University and Catherine Pelachaud from Sorbonne Université.
+  CUI !!conference.year!! will feature two keynotes from distinguished academics: Effie Law from Durham University and Catherine Pelachaud from Sorbonne Université.
   
 #cta:
 #  text: View in programme
@@ -11,7 +11,7 @@ description: >
 menus:
   programme:
     title: Keynotes
-    alt: Details about the !!conference.short_name_!! !!conference.year!! conference keynotes
+    alt: Details about the CUI !!conference.year!! conference keynotes
     weight: 1
     sep_before: true
 ---

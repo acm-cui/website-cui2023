@@ -10,7 +10,7 @@ cta:
 menus:
   programme:
     title: Industry Panel
-    alt: Details about the !!conference.short_name_!! !!conference.year!! conference industry panel
+    alt: Details about the CUI !!conference.year!! conference industry panel
     weight: 2
 ---
 

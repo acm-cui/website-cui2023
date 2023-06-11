@@ -1,6 +1,6 @@
 ---
 label: Venues
-description: Venue information for !!conference.full_name!! !!conference.year!! conference.
+description: Venue information for Conversational User Interfaces !!conference.year!! conference.
 
 menus:
   attend:

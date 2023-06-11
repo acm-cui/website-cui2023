@@ -1,6 +1,6 @@
 ---
 label: Programme Committee
-description: The Programme Committee for the !!conference.year!! !!conference.full_name!! conference.
+description: The Programme Committee for the !!conference.year!! Conversational User Interfaces conference.
 
 menus:
   organisers:
