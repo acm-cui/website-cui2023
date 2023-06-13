@@ -3,10 +3,10 @@ label: Accessibility
 description: How we are working to ensure that CUI !!conference.year!! is accessible for all attendees.
 
 menus:
-  attendees:
+  attend:
     title: Accessibility and Diversity
     alt: How we are working to ensure that CUI !!conference.year!! is accessible for all attendees
-    weight: 2
+    weight: 6
     sep_before: true
 ---
 
