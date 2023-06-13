@@ -12,9 +12,9 @@ menus:
 
 # Accessibility and Diversity
 
-CUI {{ site.conference.year }} strives to be an inclusive and accessible conference and we will do our best to accommodate requests for special assistance. Information will be posted here as we develop our plans for the conference, to help you make an informed decision about whether the conference will be accessible to you. Please contact us if your question is not answered here, or if the conference arrangements as described are not enough to allow you to attend. We will work with you to the best of our ability, to make the conference accessible.
+CUI {{ site.conference.year }} strives to be an inclusive and accessible conference, and we will do our best to accommodate requests for special assistance. Information will be posted here as we develop our plans for the conference, to help you decide whether the conference will be accessible to you. Please get in touch with us if your question is not answered here, or if the conference arrangements as described are not enough to allow you to attend. 
 
-The {{ site.data.oc['conference']['roles']['accessibility_diversity']['label'] }} is progressively assembling this information. If you have questions or wish to raise a point regarding our efforts to ensure all attendees can participate, please contact us <a href="{{ site.data.oc['conference']['roles']['accessibility_diversity']['email'] }}">by email</a>.
+The {{ site.data.oc['conference']['roles']['accessibility_diversity']['label'] }} is progressively assembling this information. If you have questions or wish to raise a point regarding our efforts to ensure all attendees can participate, please contact us <a href="{{ site.data.oc['conference']['roles']['accessibility_diversity']['email'] }}">by email</a>. Rest assured,  we will work with you to make the conference accessible..
 
 ## Pronouns
 
