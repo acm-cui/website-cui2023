@@ -1,105 +1,105 @@
 papers:
-  - title: "Conversations with the News: Co-speculation into Conversational Interactions with News Content"
-    authors: NA
+  -  title: "Conversations with the News: Co-speculation into Conversational Interactions with News Content"
+     authors: NA
 
-  - title: "Human Speakers Help Machine Listeners To account For Visual Asymmetries in Dialogue"
-    authors: NA
+  -  title: "Human Speakers Help Machine Listeners To account For Visual Asymmetries in Dialogue"
+     authors: NA
 
-  - title: "Unified Conversational Models with System-Initiated Transitions between Chit-Chat and Task-Oriented Dialogues"
-    authors: NA
+  -  title: "Unified Conversational Models with System-Initiated Transitions between Chit-Chat and Task-Oriented Dialogues"
+     authors: NA
 
-  - title: "Chatting About Data - Interacting with Voice Interfaces to Engage with Election Panel Data"
-    authors: NA
+  -  title: "Chatting About Data - Interacting with Voice Interfaces to Engage with Election Panel Data"
+     authors: NA
 
-  - title: "Exploring Humor as a Repair Strategy During Communication Breakdowns with Voice Assistants"
-    authors: NA
+  -  title: "Exploring Humor as a Repair Strategy During Communication Breakdowns with Voice Assistants"
+     authors: NA
 
-  - title: "Trustworthy Embodied Conversational Agents for Healthcare. A Design Exploration of Embodied Conversational Agents for Periconception at Anonymous Clinical Hospital"
-    authors: NA
+  -  title: "Trustworthy Embodied Conversational Agents for Healthcare. A Design Exploration of Embodied Conversational Agents for Periconception at Anonymous Clinical Hospital"
+     authors: NA
 
-  - title: "What’s The Talk on VUI Guidelines? A Meta-Analysis of Guidelines for Voice User Interface Design"
-    authors: NA
+  -  title: "What’s The Talk on VUI Guidelines? A Meta-Analysis of Guidelines for Voice User Interface Design"
+     authors: NA
 
-  - title: "Programming by Voice: Exploring User Preferences and Speaking Styles"
-    authors: NA
+  -  title: "Programming by Voice: Exploring User Preferences and Speaking Styles"
+     authors: NA
 
-  - title: "Self-imposed Filter Bubble Model for Argumentative Dialogues"
-    authors: NA
+  -  title: "Self-imposed Filter Bubble Model for Argumentative Dialogues"
+     authors: NA
 
-  - title: "Chatbot as Advisers: the Effects of Response Variability and Reply Suggestion Buttons"
-    authors: NA
+  -  title: "Chatbot as Advisers: the Effects of Response Variability and Reply Suggestion Buttons"
+     authors: NA
 
-  - title: "Voice Assistant Use in Long-Term Care"
-    authors: NA
+  -  title: "Voice Assistant Use in Long-Term Care"
+     authors: NA
 
-  - title: "Towards Cross-Content Conversational Agents for Behaviour Change: Investigating Domain Independence and the Role of Lexical Features in Written Language Around Change"
-    authors: NA
+  -  title: "Towards Cross-Content Conversational Agents for Behaviour Change: Investigating Domain Independence and the Role of Lexical Features in Written Language Around Change"
+     authors: NA
 
-  - title: "RoboClean: Contextual Language Grounding for Human-Robot Interactions in Specialised Low-Resource Environments"
-    authors: NA
+  -  title: "RoboClean: Contextual Language Grounding for Human-Robot Interactions in Specialised Low-Resource Environments"
+     authors: NA
 
-  - title: "Enabling Semi-Structured Knowledge Access via a Question-Answering Module in Task-oriented Dialogue Systems"
-    authors: NA
+  -  title: "Enabling Semi-Structured Knowledge Access via a Question-Answering Module in Task-oriented Dialogue Systems"
+     authors: NA
 
-  - title: "The Bot on Speaking Terms: The Effects of Conversation Architecture on Perceptions of Conversational Agents"
-    authors: NA
+  -  title: "The Bot on Speaking Terms: The Effects of Conversation Architecture on Perceptions of Conversational Agents"
+     authors: NA
 
-  - title: "Virtual assistants and personal assistants in homecare interactions"
-    authors: NA
+  -  title: "Virtual assistants and personal assistants in homecare interactions"
+     authors: NA
 
-  - title: "“A Painless Way to Learn:” Designing an Interactive Storytelling Voice User Interface to Engage Older Adults in Informal Health Information Learning"
-    authors: NA
+  -  title: "“A Painless Way to Learn:” Designing an Interactive Storytelling Voice User Interface to Engage Older Adults in Informal Health Information Learning"
+     authors: NA
 
-  - title: "Developing a Conversational Interface for an ACT-based Online Program: Understanding Adolescents’ Expectations of Conversational Style"
-    authors: NA
+  -  title: "Developing a Conversational Interface for an ACT-based Online Program: Understanding Adolescents’ Expectations of Conversational Style"
+     authors: NA
 
-  - title: "Trends, Challenges and Processes in Conversational Agent Design: Exploring Practitioners' Views through Semi-Structured Interviews"
-    authors: NA
+  -  title: "Trends, Challenges and Processes in Conversational Agent Design: Exploring Practitioners' Views through Semi-Structured Interviews"
+     authors: NA
 
-  - title: "The User Experience of ChatGPT: Findings From a Questionnaire Study of Early Users"
-    authors: NA
+  -  title: "The User Experience of ChatGPT: Findings From a Questionnaire Study of Early Users"
+     authors: NA
 
-  - title: "Gist and Verbatim: Understanding Speech to Inform New Interfaces for Verbal Text Composition"
-    authors: NA
+  -  title: "Gist and Verbatim: Understanding Speech to Inform New Interfaces for Verbal Text Composition"
+     authors: NA
 
-  - title: "Understanding and Answering Incomplete Questions"
+  -  title: "Understanding and Answering Incomplete Questions"
  
- provocations:
-  - title: "\"Funny How?\" A Serious Look at Humor in Conversational Agents"
-    authors: NA
+provocations:
+  -  title: "\"Funny How?\" A Serious Look at Humor in Conversational Agents"
+     authors: NA
 
-  - title: "Creation through Conversation - Another Provocation"
-    authors: NA
+  -  title: "Creation through Conversation - Another Provocation"
+     authors: NA
 
-  - title: "You Don't Need to Speak, You Need to Listen: Robot Interaction and Human-Like Turn-Taking"
-    authors: NA
+  -  title: "You Don't Need to Speak, You Need to Listen: Robot Interaction and Human-Like Turn-Taking"
+     authors: NA
 
-  - title: "Risk and Harm: Unpacking Ideologies in the AI Discourse"
-    authors: NA
+  -  title: "Risk and Harm: Unpacking Ideologies in the AI Discourse"
+     authors: NA
 
-  - title: "\"This means nothing to me\": Building credibility in conversational systems"
-    authors: NA
+  -  title: "\"This means nothing to me\": Building credibility in conversational systems"
+     authors: NA
 
-  - title: "Who are CUIs Really For? Representation and Accessibility in the Conversational User Interface Literature"
-    authors: NA
+  -  title: "Who are CUIs Really For? Representation and Accessibility in the Conversational User Interface Literature"
+     authors: NA
 
-  - title: "Moral Transparency as a Mitigator of Moral Bias in Conversational User Interfaces"
-    authors: NA
+  -  title: "Moral Transparency as a Mitigator of Moral Bias in Conversational User Interfaces"
+     authors: NA
 
-  - title: "Will the Assistant Become the Driver, and the Driver Become the Assistant? "
-    authors: NA
+  -  title: "Will the Assistant Become the Driver, and the Driver Become the Assistant? "
+     authors: NA
 
-  - title: "Why Are Conversational Assistants Still Black Boxes? The Case For Transparency"
-    authors: NA
+  -  title: "Why Are Conversational Assistants Still Black Boxes? The Case For Transparency"
+     authors: NA
 
-  - title: "Deceptive AI Ecosystems: The Case of ChatGPT"
-    authors: NA
+  -  title: "Deceptive AI Ecosystems: The Case of ChatGPT"
+     authors: NA
 
-  - title: "Generative AI Considered Harmful"
-    authors: NA
+  -  title: "Generative AI Considered Harmful"
+     authors: NA
 
-  - title: "Would People Mumble Rap to Alexa?"
-    authors: NA
+  -  title: "Would People Mumble Rap to Alexa?"
+     authors: NA
 
-  - title: "From Writing Dialogue to Designing Conversation: Considering the potential of Conversation Analysis for Voice User Interfaces "
-    authors: NA
+  -  title: "From Writing Dialogue to Designing Conversation: Considering the potential of Conversation Analysis for Voice User Interfaces "
+     authors: NA
