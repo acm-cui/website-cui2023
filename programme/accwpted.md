@@ -19,11 +19,11 @@ We are still compiling the CUI {{ site.conference.year }} programme, and are awa
 # Papers track
 
 {% for paper in site.data.accepted['papers'] %}
- * {{ paper }}
+ * {{ paper.title }}
 {% endfor $}
 
 # Provocations track
 
 {% for paper in site.data.accepted['provocations'] %}
- * {{ paper }}
+ * {{ paper.title }}
 {% endfor $}
