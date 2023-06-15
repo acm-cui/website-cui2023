@@ -38,6 +38,27 @@ provocations:
   - "Would People Mumble Rap to Alexa?"
   - "From Writing Dialogue to Designing Conversation: Considering the potential of Conversation Analysis for Voice User Interfaces "
   
+posters:
+  - "Investigating the Usability of a Speech Agent-based Role-playing Game"
+  - "Democratizing Chatbot Debugging: A Computational Framework for Evaluating and Explaining Inappropriate Chatbot Responses"
+  - "A Pilot Evaluation of a Conversational Listener for Conversational User Interfaces"
+  - "Facilitating Mindful Eating with a Voice Assistant"
+  - "Using Prompt Engineering and Large Large Models for Cognitive Assistants in Factories"
+  - "Beyond Anthropomorphism: Unraveling the True Priorities of Chatbot Usage in SMEs"
+  - "Opening up ChatGPT: A Survey of Open-source Instruction-following Text Generators"
+  - "Voicing Suggestions and Enabling Reflection: Results of an Expert Discussion on Proactive Assistants for Time Management"
+  - "Ah, Alright, Okay! Communicating Understanding in Conversational Product Search"
+  - "Eliciting User Self-disclosure using Reciprocity in Human-Voicebot Conversations"
+  - "Exploring Audio Icons for Content-Based Navigation in Voice User Interfaces"
+  - "Increasing Transparency to Design Inclusive Conversational Agents (CAs): Perspectives and Open Issues"
+  - "Misinformation in Third-party Voice Applications"
+  - "Multimodal, Multilingual Dynamic Stories for Literacy Development and Language Learning"
+  - "Exploring Design Opportunities for Reflective Conversational Agents to Reduce Compulsive Smartphone Use"
+  - "Exploring Usability Issues in Instruction-Based and Schema-Based Authoring of Task-Oriented Dialogue Agents"
+  - "Are you sure you want to order that? On Appropriateness of Voice-only Proactive Feedback Strategies"
+  - "Secure, Comfortable or Functional: Exploring Domain-Sensitive Prompt Design for In-Car Voice Assistants"
+
+
 demos:
   - "Tilbot: A Visual Design Platform to Facilitate Open Science Research into Conversational User Interfaces"
   - "HyLECA: A Framework for Developing Hybrid Long-term Engaging Controlled Conversational Agents"
