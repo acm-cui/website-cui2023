@@ -34,7 +34,9 @@ We are still compiling the CUI {{ site.conference.year }} programme, and are awa
 
 ## Posters track
 
-Information on accepted posters will be available soon.
+<ul>{% for paper in site.data.accepted['posters'] %}
+<li>{{ paper | strip_html }}</li>
+{% endfor %}</ul>
 
 ## Demos track
 
