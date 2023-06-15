@@ -16,7 +16,7 @@ menus:
 
 ---
 
-# Accepted suvmissions
+# Accepted submissions
 
 We are still compiling the CUI {{ site.conference.year }} programme, and are awaiting the finalisation of all papers across all tracks. The following papers have been accepted, although their titles may change during the camera ready process.
 
