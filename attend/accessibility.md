@@ -16,6 +16,18 @@ CUI {{ site.conference.year }} strives to be an inclusive and accessible confere
 
 The {{ site.data.oc['conference']['roles']['diversity']['label'] }} is progressively assembling this information. If you have questions or wish to raise a point regarding our efforts to ensure all attendees can participate, please contact us <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">by email</a>. Rest assured,  we will work with you to make the conference accessible..
 
+
+##  What if I have a medical emergency or health problem during the conference?
+
+
+
+**In case of emergency call 112 for emergency services.**
+
+The nearest hospital is the Catharina Hospital, located at 3.5 km from the conference venue. If you require non-urgent medical care, please contact {{ site.data.oc['conference']['roles']['diversity']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">emailing us</a>, or ask any student volunteer. They will provide you with information about local doctors, specialists, chiropractors, etc.
+
+For non-resident attendees, buying travel insurance that covers medical expenses is strongly recommended as fees for emergency treatment can be very high.
+
+
 ## Pronouns
 
 Per CUI’s commitment to diversity, inclusion, and equity, we wish all attendees to indicate their pronouns to promote a safe, welcoming environment. This information will be included on your CUI {{ site.conference.year }} badge and in the online attendee profile of the virtual platform to foster dignity, courtesy, understanding, and mutual respect during interactions throughout the conference. Providing/displaying your pronoun on your badge is not mandatory.
@@ -32,17 +44,23 @@ Please be aware that some accommodations may be difficult to provide at short no
 
 If you request sign language interpretation in your conference registration, we will strive to provide interpretation for all conference presentations and events, including informal conversations. Please register your request before the 25th June 2023 by <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">emailing us</a>. You may also bring your interpreter to the event. Please reach out to the {{ site.data.oc['conference']['roles']['diversity']['label'] }} to set this up.
 
-<!-- 
+
 ## Will childcare service be provided during the main conference day?
 
-We are happy to announce that we will help parents to arrange and cover the costs of high-quality childcare for children during the main conference days (Monday – Wednesday) starting at 09:00 and running throughout the day (with a break during lunch). 
+If your child(ren) will accompany you to the conference center, and if you need childcare for your children, please contact the {{ site.data.oc['conference']['roles']['diversity']['label'] }} <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">by email</a> and the {{ site.data.oc['conference']['roles']['local']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['local']['email'] }}">by email</a> as early as possible to arrange childcare service for your kids.
+
+We are happy to announce that we will cover the costs of high-quality childcare for children during the main conference days (Wednesday--Friday).
+ 
+ 
+
+We are happy to announce that we will help parents to arrange and cover the costs of high-quality childcare for children during the main conference days (Wednesday--Friday) starting at 09:00 and running throughout the day (with a break during lunch). 
 
 If your child(ren) will accompany you to the conference center, and if you need childcare for your children, please contact the {{ site.data.oc['conference']['roles']['diversity']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">emailing us</a> and the {{ site.data.oc['conference']['roles']['local']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['local']['email'] }}">by email</a> as early as possible to arrange childcare service for your kids.
 
 ## Nursing room
 
 The lactation room is located on the conference venue. It is a comfortable, quiet individual space for parents and caregivers to feed your baby. This room, which is located on the -1 floor of the Atlas building (room -1.t64), TU/e, can be used to pump breast milk or to feed and calm your baby. If you need to use this room, please reach out to the {{ site.data.oc['conference']['roles']['local']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['local']['email'] }}">by email</a> to book this room at a specific time and datetime during the conference.
- -->
+
 
 ## What are the public transport options for getting to the conference venue?
 
