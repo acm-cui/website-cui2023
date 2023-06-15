@@ -1,7 +1,7 @@
 ---
-label: Accepted papers
+label: Accepted submissions
 description: >
-  Prior to the release of the full CUI !!conference.year!! programme, we have made avaialble titles of accepted publications.
+  Prior to the release of the full CUI !!conference.year!! programme, we have made avaialble titles of accepted submissions that will be prrsented at CUI this year.
   
 #cta:
 #  text: View in programme
@@ -10,13 +10,13 @@ description: >
 
 menus:
   programme:
-    title: Accepted papers
-    alt: Details of papers accepted for publication at CUI !!conference.year!!
+    title: Accepted submissions
+    alt: Details of papers, provocations, posters and demos accepted for publication at CUI !!conference.year!!
     weight: 3
 
 ---
 
-# Accepted papers
+# Accepted suvmissions
 
 We are still compiling the CUI {{ site.conference.year }} programme, and are awaiting the finalisation of all papers across all tracks. The following papers have been accepted, although their titles may change during the camera ready process.
 
