@@ -38,7 +38,7 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ${{ secrets.FTP_PROTOCOL }}
+          protocol: ftps
           local-dir: ./_site/
           max-retries: 3
         if: github.ref == 'refs/heads/main' && needs.pr-check.outputs.number != 'null'
