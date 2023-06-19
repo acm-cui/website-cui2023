@@ -33,11 +33,14 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: 🌎 Upload to cui.acm.org
-        uses: sebastianpopp/ftp-action@releases/v2
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          host: ${{ secrets.FTP_HOST }}
-          user: ${{ secrets.FTP_USERNAME }}
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          localDir: ./_site
+          protocol: ftps
+          local-dir: ./_site
+          dry-run: true
+          log-level: verbose
         if: github.ref == 'refs/heads/main' && needs.pr-check.outputs.number != 'null'
 
