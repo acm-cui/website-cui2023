@@ -41,5 +41,6 @@ jobs:
           protocol: ftps
           local-dir: ./_site/
           log-level: verbose
+          timeout: 36400
         if: github.ref == 'refs/heads/main' && needs.pr-check.outputs.number != 'null'
 
