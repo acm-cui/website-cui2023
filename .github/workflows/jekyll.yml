@@ -33,7 +33,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: 🌎 Upload to cui.acm.org
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: lujiaying/FTP-Deploy-Action-Py3.9@v1.0
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
