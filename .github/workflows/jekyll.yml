@@ -40,7 +40,6 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./_site/
-          log-level: verbose
-          max-retrie: 3
+          max-retries: 3
         if: github.ref == 'refs/heads/main' && needs.pr-check.outputs.number != 'null'
 
