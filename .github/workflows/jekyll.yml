@@ -39,7 +39,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
-          local-dir: ./_site
+          local-dir: ./_site/
           dry-run: true
           log-level: verbose
         if: github.ref == 'refs/heads/main' && needs.pr-check.outputs.number != 'null'
