@@ -48,5 +48,6 @@ jobs:
           user: ${{ secrets.FTP_USERNAME }}
           passwd: ${{ secrets.FTP_PASSWORD }}
           local_dir: ./_site/
+          remote_dir: /
         if: github.ref == 'refs/heads/main' && needs.pr-check.outputs.number != 'null'
 
