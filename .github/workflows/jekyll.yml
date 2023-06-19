@@ -44,12 +44,9 @@ jobs:
       - name: 🌎 Upload to cui.acm.org
         uses: lujiaying/FTP-Deploy-Action-Py3.9@v1.0
         with:
-          server: ${{ secrets.FTP_HOST }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          local-dir: ./_site/
-          log-level: verbose
-          timeout: 36400
+          host: ${{ secrets.FTP_HOST }}
+          user: ${{ secrets.FTP_USERNAME }}
+          passwd: ${{ secrets.FTP_PASSWORD }}
+          local_dir: ./_site/
         if: github.ref == 'refs/heads/main' && needs.pr-check.outputs.number != 'null'
 
