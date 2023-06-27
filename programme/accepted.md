@@ -8,17 +8,14 @@ description: >
 #  title: Locate the keynote in the conference programme
 #  link: /2022/programme/link/keynote
 
-
 layout: redirection
 target: https://programs.sigchi.org/cui/2023
 
-<!-- 
-menus:
-  programme:
-    title: Accepted submissions
-    alt: Details of papers, provocations, posters and demos accepted for publication at CUI !!conference.year!!
-    weight: 3
- -->
+#menus:
+#  programme:
+#    title: Accepted submissions
+#    alt: Details of papers, provocations, posters and demos accepted for publication at CUI !!conference.year!!
+#    weight: 3
 
 ---
 
