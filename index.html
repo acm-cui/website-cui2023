@@ -106,76 +106,95 @@ menu:
 		<div class="h-100 d-flex flex-column align-items-center justify-content-start px-xl-5">
 			<div class="logos icons sep pb-4 w-100 text-center">
 				<a href="https://twitter.com/ACM_CUI" title="Follow @ACM_CUI on Twitter" class="d-inline-block text-center me-xl-2 me-lg-1 me-3" target="_blank">
-					<img src="{{ "/assets/img/link-twitter.png" | relative_url }}" alt="Twitter logo" title="@ACM_CUI on Twitter" class="d-dk-none">
-					<img src="{{ "/assets/img/link-twitter-dk.png" | relative_url }}" alt="Twitter logo" title="@ACM_CUI on Twitter" class="d-lt-none">
+					<picture>
+						<source srcset="{{ "/assets/img/link-twitter-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/link-twitter.png" | relative_url }}" alt="Twitter logo" title="@ACM_CUI on Twitter">
+					</picture>
 				</a>
 				<a href="https://hci.social/@cui" title="Follow @cui@hci.social on Mastodon" rel="me" class="d-inline-block text-center me-xl-2 me-lg-1 me-3" target="_blank">
-					<img src="{{ "/assets/img/link-mastodon.png" | relative_url }}" alt="Mastodon logo" title="@cui@hci.social on Mastodon" class="d-dk-none">
-					<img src="{{ "/assets/img/link-mastodon-dk.png" | relative_url }}" alt="Mastodon logo" title="@cui@hci.social on Mastodon" class="d-lt-none">
+					<picture>
+						<source srcset="{{ "/assets/img/link-mastodon-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/link-mastodon.png" | relative_url }}" alt="Mastodon logo" title="@cui@hci.social on Mastodon">
+					</picture>
 				</a>
 				<a href="https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CUI-ANNOUNCEMENTS" title="The CUI community mailing list on ACM listserv" class="d-inline-block text-center  me-xl-2 me-lg-1 me-3" target="_blank">
-					<img src="{{ "/assets/img/link-listserv.png" | relative_url }}" alt="An envelope with a letter coming out of it" title="The CUI community mailing list on ACM listserv" class="d-dk-none">
-					<img src="{{ "/assets/img/link-listserv-dk.png" | relative_url }}" alt="An envelope with a letter coming out of it" title="The CUI community mailing list on ACM listserv" class="d-lt-none">
+					<picture>
+						<source srcset="{{ "/assets/img/link-listserv-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/link-listserv.png" | relative_url }}" alt="An envelope with a letter coming out of it" title="The CUI community mailing list on ACM listserv">
+					</picture>
 				</a>
 				<a href="https://discord.gg/UeSDC2MyhH" title="Join the ACM CUI community on Discord" class="d-inline-block text-center me-xl-2 me-lg-1 me-3" target="_blank">
-					<img src="{{ "/assets/img/link-discord.png" | relative_url }}" alt="Discord logo" title="Join the ACM CUI community on Discord" class="d-dk-none">
-					<img src="{{ "/assets/img/link-discord-dk.png" | relative_url }}" alt="Discord logo" title="Join the ACM CUI community on Discord" class="d-lt-none">
+					<picture>
+						<source srcset="{{ "/assets/img/link-discord-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/link-discord.png" | relative_url }}" alt="Discord logo" title="Join the ACM CUI community on Discord">
+					</picture>
 				</a>
 				<a href="https://dl.acm.org/action/doSearch?&startPage=&rel=nofollow&SpecifiedLevelConceptID=122215" title="The CUI proceedings are published in the ACM Digital Library" class="d-inline-block text-center" target="_blank">
-					<img src="{{ "/assets/img/link-acmdl.png" | relative_url }}" alt="ACM Digital Library logo" title="CUI proceedings in the ACM Digital Library" class="d-dk-none">
-					<img src="{{ "/assets/img/link-acmdl-dk.png" | relative_url }}" alt="ACM Digital Library logo" title="CUI proceedings in the ACM Digital Library" class="d-lt-none">
+					<picture>
+						<source srcset="{{ "/assets/img/link-acmdl-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/link-acmdl.png" | relative_url }}" alt="ACM Digital Library logo" title="CUI proceedings in the ACM Digital Library">
+					</picture>
 				</a>
 			</div>
 
 			<div class="logos full-width d-block w-100 pt-4 text-center">
 				<h3 class="mt-0 mb-4 text-center flex-grow-1">Sponsors</h3>
-				<a href="https://www.boldinsight.co.uk/" title="CUI {{ site.conference.year }} is sponsored by Bold Insight UK" class="d-dk-none" target="_blank">
-					<img src="{{ "/assets/img/logo-boldinsight.png" | relative_url }}" alt="Bold Insight logo" title="CUI {{ site.conference.year }} is sponsored by Bold Insight UK" class="mx-auto">
-				</a>
-				<a href="https://www.boldinsight.co.uk/" title="CUI {{ site.conference.year }} is sponsored by Bold Insight UK" class="d-lt-none" target="_blank">
-					<img src="{{ "/assets/img/logo-boldinsight-dk.png" | relative_url }}" alt="Bold Insight logo" title="CUI {{ site.conference.year }} is sponsored by Bold Insight UK" class="mx-auto">
+				<a href="https://www.boldinsight.co.uk/" title="CUI {{ site.conference.year }} is sponsored by Bold Insight UK" target="_blank">
+					<picture>
+						<source srcset="{{ "/assets/img/logo-boldinsight-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/logo-boldinsight.png" | relative_url }}" alt="Bold Insight logo" title="CUI {{ site.conference.year }} is sponsored by Bold Insight UK" class="mx-auto">
+					</picture>
 				</a>
 			</div>
 			
 			<div class="logos full-width d-block w-100 pt-4 text-center">
-				<a href="https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven Artificial Intelligence Systems Institute" class="d-dk-none" target="_blank">
-					<img src="{{ "/assets/img/logo-eaisi.png" | relative_url }}" alt="Eindhoven Artificial Intelligence Systems Institute at TU/e logo" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven Artificial Intelligence Systems Institute" class="mx-auto">
-				</a>
-				<a href="https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven Artificial Intelligence Systems Institute" class="d-lt-none" target="_blank">
-					<img src="{{ "/assets/img/logo-eaisi.png" | relative_url }}" alt="Eindhoven Artificial Intelligence Systems Institute at TU/e logo" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven Artificial Intelligence Systems Institute" class="mx-auto">
+				<a href="https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven Artificial Intelligence Systems Institute" target="_blank">
+					<picture>
+						<img src="{{ "/assets/img/logo-eaisi.png" | relative_url }}" alt="Eindhoven Artificial Intelligence Systems Institute at TU/e logo" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven Artificial Intelligence Systems Institute" class="mx-auto">
+					</picture>
 				</a>
 			</div>
 			
 			<div class="logos full-width d-block w-100 pt-4 text-center">
 				<a href="https://hmduxresearch.com/" title="CUI {{ site.conference.year }} is sponsored by HMD Research" target="_blank">
-					<img src="{{ "/assets/img/logo-hmdresearch.png" | relative_url }}" alt="HMD Research" title="CUI {{ site.conference.year }} is sponsored by HMD Research" class="mx-auto">
+					<picture>
+						<img src="{{ "/assets/img/logo-hmdresearch.png" | relative_url }}" alt="HMD Research" title="CUI {{ site.conference.year }} is sponsored by HMD Research" class="mx-auto">
+					</picture>
 				</a>
 			</div>
 
 			<div class="logos full-width d-block w-100 py-4 sep text-center">
-				<a href="https://www.tue.nl/en/" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven University of Technology" class="d-dk-none" target="_blank">
-					<img src="{{ "/assets/img/logo-tue.png" | relative_url }}" alt="TU/e: Eindhoven University of Technology logo" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven University of Technology" class="mx-auto">
-				</a>
-				<a href="https://www.tue.nl/en/" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven University of Technology" class="d-lt-none" target="_blank">
-					<img src="{{ "/assets/img/logo-tue.png" | relative_url }}" alt="TU/e: Eindhoven University of Technology logo" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven University of Technology" class="mx-auto">
+				<a href="https://www.tue.nl/en/" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven University of Technology" target="_blank">
+					<picture>
+						<img src="{{ "/assets/img/logo-tue.png" | relative_url }}" alt="TU/e: Eindhoven University of Technology logo" title="CUI {{ site.conference.year }} is sponsored by the Eindhoven University of Technology" class="mx-auto">
+					</picture>
 				</a>
 			</div>
 			
 			<div class="logos full-width d-block w-100 py-4 pb-0 text-center">
-				<a href="https://acm.org/" title="CUI {{ site.conference.year }} is an ACM conference" class="d-dk-none" target="_blank">
-					<img src="{{ "/assets/img/logo-acm.png" | relative_url }}" alt="ACM logo" title="CUI {{ site.conference.year }} is an ACM conference" class="mx-auto">
-				</a>
-				<a href="https://acm.org/" title="CUI {{ site.conference.year }} is an ACM conference" class="d-lt-none" target="_blank">
-					<img src="{{ "/assets/img/logo-acm-dk.png" | relative_url }}" alt="ACM logo" title="CUI {{ site.conference.year }} is an ACM conference" class="mx-auto">
+				<a href="https://acm.org/" title="CUI {{ site.conference.year }} is an ACM conference" target="_blank">
+					<picture>
+						<source srcset="{{ "/assets/img/logo-acm-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/logo-acm.png" | relative_url }}" alt="ACM logo" title="CUI {{ site.conference.year }} is an ACM conference" class="mx-auto">
+					</picture>
 				</a>
 			</div>
 			
 			<div class="logos full-width d-block w-100 py-4 text-center">
-				<a href="https://sigchi.org/" title="CUI {{ site.conference.year }} is an ACM  conference" class="d-dk-none" target="_blank">
-					<img src="{{ "/assets/img/logo-sigchi.png" | relative_url }}" alt="ACM SIGCHI logo" title="CUI {{ site.conference.year }} is an ACM conference" class="mx-auto">
+				<a href="https://sigchi.org/" title="CUI {{ site.conference.year }} is a SIGCHI specialised conference" target="_blank">
+					<picture>
+						<source srcset="{{ "/assets/img/logo-sigchi-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/logo-sigchi.png" | relative_url }}" alt="ACM SIGCHI logo" title="CUI {{ site.conference.year }} is a SIGCHI specialised conference" class="mx-auto">
+					</picture>
 				</a>
-				<a href="https://sigchi.org/" title="CUI {{ site.conference.year }} is an ACM  conference" class="d-lt-none" target="_blank">
-					<img src="{{ "/assets/img/logo-sigchi-dk.png" | relative_url }}" alt="ACM SIGCHI logo" title="CUI {{ site.conference.year }} is an ACM conference" class="mx-auto">
+			</div>
+			
+			<div class="logos full-width d-block w-100 py-4 text-center">
+				<a href="https://cui.acm.org/community/" title="Visit the ACM CUI community website" target="_blank">
+					<picture>
+						<source srcset="{{ "/assets/img/logo-cui-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)">
+						<img src="{{ "/assets/img/logo-cui.png" | relative_url }}" alt="ACM CUI logo" title="Visit the ACM CUI community website" class="mx-auto">
+					</picture>
 				</a>
 			</div>
 		</div>
