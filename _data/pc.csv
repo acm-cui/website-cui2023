@@ -1,33 +1,158 @@
-name,institution,country
-Sandeep Avula,Amazon,USA
-Benett Axtell,University of Toronto,Canada
-Matthew Aylett,Cereproc Ltd.,UK
-Timothy Bickmore,Northeastern University,USA
-Benjamin Cowan,University College Dublin,Ireland
-Justin Edwards,University College Dublin,Ireland
-Joel Fischer,University of Nottingham,UK
-Alexander Frummet,University of Regensburg,Germany
-Razan Jaber,Stockholm University,Sweden
-Mohit Jain,Microsoft,India
-Abhishek Kaushik,Dublin City University,Ireland
-Dagmar Kern,GESIS,Germany
-Johannes Kiesel,Bauhaus-Universität Weimar,Germany
-Effie Law,Durham University,UK
-Uichin Lee,Korea Advanced Institute of Science and Technology,Korea
-Donald McMillan,Stockholm University,Sweden
-Selina Meyer,University of Regensburg,Germany
-Robert Moore,IBM Research,USA
-Roger Moore,The University of Sheffield,UK
-Christine Murad,University of Toronto,Canada
-Paul Owoicho,University of Glasgow,UK
-Gustavo Penha,Delft University of Technology,Netherlands
-Daniel Rough,University of Dundee,UK
-Sergio Sayago,Universitat de Lleida
-Stefan Schaffer,DFKI GmbH,Germany
-Stephan Schlögl,MCI Management Center Innsbruck,Austria
-Jaisie Sin,University of Toronto,Canada
-Paul Thomas,Microsoft,Australia
-Ilaria Torre,KTH Royal Institute of Technology,Sweden
-Sarah Theres Völkel,Ludwig Maximilian University of Munich,Germany
-Sergey Volokhin,Emory University,USA
-Jing Wei,University of Melbourne,Australia
+firstname,surname,institution,country
+Sviatlana,Hoehn,LuxAI,Luxembourg
+Marita,Skjuve,SINTEF Digital,Norway
+Samuel,Cox,National University of Singapore,Singapore
+Heloisa,Candello,IBM Research,Brazil
+Sébastien,Le Maguer,ADAPTCentre / Trinity College Dublin,Ireland
+Roel,Boumans,Radboud University,Netherlands
+Stella,George,Athabasca University,Canada
+Mary Ellen,Foster,University of Glasgow,United Kingdom
+Sruthi,Viswanathan,University of Oxford,United Kingdom
+Yunhan,Wu,University College Dublin,Ireland
+Benedikt,Loepp,University of Duisburg-Essen,Germany
+A. Baki,Kocaballi,University of Technology Sydney,Australia
+Deepanjan,Kundu,Meta Platforms,United States
+Philip,Doyle,University College Dublin,Ireland
+Ziang,Xiao,Johns Hopkins University,United States
+Justin,Edwards,University College Dublin,Ireland
+David,Large,University of Nottingham,United Kingdom
+Suhas,BN,Pennsylvania State University,United States
+Lisa,Orii,University of Washington,United States
+Yunjie,Liu,Eindhoven University of Technology,Netherlands
+Fatemeh,Alizadeh,University of Siegen,Germany
+Jens,Edlund,KTH Royal Institute of Technology,Sweden
+Paola,Peña,University College Dublin,Ireland
+Wei,Bai,Google,United States
+Rafael,Wampfler,ETH Zurich,Switzerland
+Julian,Hough,Swansea University,United Kingdom
+Iyadunni,Adenuga,Pennsylvania State University,United States
+Yao-Cheng,Chan,University of Texas at Austin,United States
+Chaklader,Mahmud,University of Technology Sydney,Australia
+Thomas Serban,von Davier,University of Oxford,United Kingdom
+Shaul,Ashkenazi,University of Glasgow,United Kingdom
+Hayoun,Noh,University of Oxford,United Kingdom
+Reshmi,Ghosh,Microsoft AI Development Acceleration Program,United States
+Isabela,Motta,PUC-Rio Univeristy,Brazil
+Kovila,Coopamootoo,Kings College London,United Kingdom
+Casey,Bennett,Hanyang University,Korea,Republic of
+Erkan,Basar,Radboud University,Netherlands
+Robert,Moore,IBM Research,United States
+Max,Wilson,University of Nottingham,United Kingdom
+Yaoli,Mao,Columbia University,United States
+Zac,Yu,Carnegie Mellon University,United States
+Ruoyan,Kong,University of Minnesota,United States
+Mathyas,Giudici,Politecnico di Milano,Italy
+Jingjin,Li,Cornell University,United States
+Sebastian,Hobert,University of Goettingen,Germany
+Karthik S,Bhat,Georgia Institute of Technology,United States
+Luca-Maxim,Meinhardt,Institute of Media Informatics,Germany
+Mike,Ligthart,Vrije Universiteit Amsterdam,Netherlands
+Nick,Bowman,Syracuse University,United States
+Ruben,Janssens,Ghent University - imec,Belgium
+Sanjana,Mendu,Pennsylvania State University,United States
+Andres,Ramirez Duque,University of Glasgow,United Kingdom
+Thomas,Mildner,University of Bremen,Germany
+Andreea,Danielescu,Accenture Labs,United States
+Zhuoran,Lu,Purdue University,United States
+Yuan,Sun,Pennsylvania State University,United States
+Cassia,Sanctos,IBM,Brazil
+Luigi,De Russis,Politecnico di Torino,Italy
+Nina,Wenig,University of Bremen,Germany
+Matthew,Roddy,Cogito Corp,Ireland
+Laura,Spillner,University of Bremen,Germany
+Katri,Hiovain-Asikainen,The Arctic University of Norway,Norway
+Sam,Davern,Trinity College Dublin,Ireland
+Philipp,Wintersberger,University of Applied Sciences Upper Austria,Austria
+Gian-Luca,Savino,University of St. Gallen,Switzerland
+Eike,Schneiders,Aalborg University,Denmark
+Tim,Donkers,University of Duisburg-Essen,Germany
+Ali,Farooq,Hammad Bin Khalifa University,Qatar
+David,Robb,Heriot-Watt University,United Kingdom
+Mickael,Rouvier,LIA - Avignon Unviersity,France
+Jeongyun,Heo,Kookmin University,Korea,Republic of
+Orla,Cooney,University College Dublin,Ireland
+Sehi,L'Yi,Harvard Medical School,United States
+Sadia,Nowrin,Michigan Technological University,United States
+Madeleine,Steeds,University of York,United Kingdom
+Chien Wen (Tina),Yuan,National Taiwan University,Taiwan
+Asbjørn,Følstad,SINTEF,Norway
+Sunok,Lee,KAIST,Korea,Republic of
+Robert,Bowman,Trinity College Dublin,Ireland
+Jingxian,Liao,UC Davis,United States
+Indrajeet,Ghosh,University of Maryland Baltimore County,United States
+Tsung-Ren,Huang,National Taiwan University,Taiwan
+Peter,Lovei,Philips,Netherlands
+Chinmaya,Mishra,Furhat Robotics AB,Sweden
+Daniel,Tetteroo,Technische Universiteit Eindhoven,Netherlands
+Sabid Bin Habib,Pias,Indiana University,United States
+Massimiliano,Dibitonto,Link Campus University,Italy
+Iona,Gessinger,University College Dublin,Ireland
+Amy,Melniczuk,Northumbria University,United Kingdom
+Samiha,Samrose,Rochester University,United States
+Xu,Han,University of Colorado Boulder,United States
+Madhurima,Vardhan,Argonne National laboratory,United States
+Yuwen,Lu,University of Notre Dame,United States
+Marta,Romeo,Heriot-Watt University,United Kingdom
+Angus,Addlesee,Heriot-Watt University,United Kingdom
+Sabirat,Rubya,Marquette University,United States
+Stephan,Schlögl,MCI - The Entrepreneurial University,Austria
+Anand,Aiyer,Stony Brook University,United States
+Selina,Meyer,Regensburg University,Germany
+Maithili,Mishra,Clemson University,United States
+Abhijit,Suresh,University of Colorado Boulder,United States
+Iain,McGregor,Edinburgh Napier University,United Kingdom
+Yunxing,Liu,Industrial design,Netherlands
+Anna-Maria,Meck,Ludwig-Maximilians-Universität,Germany
+Karthik,Mahadevan,University of Toronto,Canada
+Tim,Cech,University of Potsdam,Germany
+Stuart,Reeves,University of Nottingham,United Kingdom
+Claudio,Pinhanez,IBM Research Brazil,Brazil
+James,Simpson,Macquarie University,Australia
+Tong,Wu,Rutgers,the State University of New Jersey,United States
+Matthew,Aylett,CereProc Ltd.,United Kingdom
+Murali,Balusu,Georgia Tech,United States
+Joel,Wester,Aalborg University,Denmark
+Smit,Desai,University of Illinois,Urbana-Champaign,United States
+Nur,Yildirim,Carnegie Mellon University,United States
+Phani Krishna,Uppala,Apple,United States
+María Inés,Torres,Universidad del Pais Vasco UPV/EHU,Spain
+Shunyao,Wu,Samsung Research America,United States
+Daniel,Rough,University of Dundee,United Kingdom
+Benjamin,Cowan,University College Dublin,Ireland
+Laurianne,Sitbon,Queensland University of Technology (QUT),Australia
+Chong,Zhang,TigerGraph,United States
+Francesco,Cauteruccio,Polytechnic University of Marche,Italy
+Yiren,Liu,University of Illinois Urbana-Champaign,United States
+Darren,Scott,Swansea University,United Kingdom
+Bharatwaja,Namatherdhala,Adobe Inc,United States
+Jide,Edu,King's College London,United Kingdom
+Xin,Sun,University of Amsterdam,Netherlands
+Wenchao,Dong,KAIST,Korea, Republic of
+Mark,Dingemanse,Radboud University,Netherlands
+Sergio,Sayago,Universitat de Lleida,Spain
+Ja Eun,Yu,University of Illinois at Chicago,United States
+Patrick,Stadler,German Research Center for Artificial Intelligence (DFKI),Germany
+Aishat,Aloba,University of Florida,United States
+Timothy,Merritt,Aalborg University,Denmark
+Mark,Colley,Ulm University,Germany
+Alain,Starke,University of Amsterdam,Netherlands
+Maarten,Houben,Eindhoven University of Technology,Netherlands
+Adam,Jenkins,University of Edinburgh,United Kingdom
+Minha,Lee,Eindhoven University of Technology,Netherlands
+Sahiti,Kunchay,The Pennsylvania State University,United States
+Yichao,Cui,Cornell Tech,United States
+Arnav,Aghav,Arizona State Unviersity,United States
+Yin,Li,Cornell Tech,United States
+Andrea,Papenmeier,University of Duisburg-Essen,Germany
+Sukolsak,Sakshuwong,Stanford,United States
+Pingping,Cai,University of South Carolina,United States
+Mateusz,Dubiel,Strathclyde University,United Kingdom
+Xiao,Zhan,King's College London,United Kingdom
+Jiaxin,An,The University of Texas at Austin,United States
+Lele,Sha,Monash University,Australia
+Francisco Maria,Calisto,IST - U. Lisboa,Portugal
+Donald,McMillan,Stockholm University,Sweden
+Andreas,Liesenfeld,Radboud University,Netherlands
+Yali,Bian,Intel Corporation,United States
+Samuel,Kernan Freire,Delft University of Technology,Netherlands
+Cosmin,Munteanu,University of Waterloo,Canada
