@@ -12,10 +12,10 @@
                     {%- for item in site.menus.main -%}
                         {% if item.children %}
                             <li class="nav-item dropdown d-md-block d-none">
-                                <a class="nav-link py-md-0 py-3 dropdown-toggle {% if page.url contains item.url %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="organisersLink">
+                                <a class="nav-link py-md-0 py-3 dropdown-toggle {% if page.url contains item.url %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownLink-{{ forloop.index }}">
                                     {{ item.title }}
                                 </a>
-                                <div class="dropdown-menu text-md-left text-center mx-md-0 p-1" aria-labelledby="organisersLink">
+                                <div class="dropdown-menu text-md-left text-center mx-md-0 p-1" aria-labelledby="dropdownLink-{{ forloop.index }}">
                                     {%- include menu.html menu=item.children -%}
                                 </div>
                             </li>
