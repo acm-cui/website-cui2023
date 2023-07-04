@@ -32,11 +32,11 @@ For non-resident attendees, buying travel insurance that covers medical expenses
 
 Per CUI’s commitment to diversity, inclusion, and equity, we wish all attendees to indicate their pronouns to promote a safe, welcoming environment. This information will be included on your CUI {{ site.conference.year }} badge and in the online attendee profile of the virtual platform to foster dignity, courtesy, understanding, and mutual respect during interactions throughout the conference. Providing/displaying your pronoun on your badge is not mandatory.
 
-## How do I communicate accessibility needs to organizers?
+## How do I communicate accessibility needs to organisers?
 
 The {{ site.data.oc['conference']['roles']['diversity']['label'] }} aims to ensure the conference is accessible to everyone. When you register for the conference, there will be questions for you to answer about your needs. Please complete these to indicate anything that will help make the conference accessible.
 
-Possible requests include but are not limited to: sign language interpretation, note taker, assistive listening device, captioning, description (for slides, overheads or videos), and so on. The {{ site.data.oc['conference']['roles']['diversity']['label'] }}r will follow up with requests. You can contact them directly at any time by <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">emailing us</a>.
+Possible requests include but are not limited to: sign language interpretation, note taker, assistive listening device, captioning, description (for slides, overheads or videos), and so on. The {{ site.data.oc['conference']['roles']['diversity']['label'] }} will follow up with requests. You can contact them directly at any time by <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">emailing us</a>.
 
 Please be aware that some accommodations may be difficult to provide at short notice, and we may only be able to accommodate some requests.
 
@@ -51,8 +51,6 @@ If your child(ren) will accompany you to the conference center, and if you need 
 
 We are happy to announce that we will cover the costs of high-quality childcare for children during the main conference days (Wednesday--Friday).
  
- 
-
 We are happy to announce that we will help parents to arrange and cover the costs of high-quality childcare for children during the main conference days (Wednesday--Friday) starting at 09:00 and running throughout the day (with a break during lunch). 
 
 If your child(ren) will accompany you to the conference center, and if you need childcare for your children, please contact the {{ site.data.oc['conference']['roles']['diversity']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['diversity']['email'] }}">emailing us</a> and the {{ site.data.oc['conference']['roles']['local']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['local']['email'] }}">by email</a> as early as possible to arrange childcare service for your kids.
@@ -60,6 +58,11 @@ If your child(ren) will accompany you to the conference center, and if you need 
 ## Nursing room
 
 The lactation room is located on the conference venue. It is a comfortable, quiet individual space for parents and caregivers to feed your baby. This room, which is located on the -1 floor of the Atlas building (room -1.t64), TU/e, can be used to pump breast milk or to feed and calm your baby. If you need to use this room, please reach out to the {{ site.data.oc['conference']['roles']['local']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['local']['email'] }}">by email</a> to book this room at a specific time and datetime during the conference.
+
+## Can I bring my pet with me?
+
+If you will bring your pet with you and you need a pet sitter, please contact both the {{ site.data.oc['conference']['roles']['diversity']['label'] }} and the {{ site.data.oc['conference']['roles']['local']['label'] }} by <a href="{{ site.data.oc['conference']['roles']['local']['email'] }}{{ site.data.oc['conference']['roles']['diversity']['email'] | replace: "mailto:", "," }}">by email</a> as early as possible to arrange pet sitting service for your pet.
+
 
 
 ## What are the public transport options for getting to the conference venue?
@@ -112,7 +115,7 @@ If you would benefit from assistance in giving your presentation or handling que
 
 ### Will presenters be visible?
 
-Presenters and speakers will be requested to use video when speaking to help lip-reading and non-native speakers. We recognize that this may only be possible for some speakers. Captions will be available throughout the conference as a fallback.
+Presenters and speakers will be requested to use video when speaking to help lip-reading and non-native speakers. We recognise that this may only be possible for some speakers. Captions will be available throughout the conference as a fallback.
 
 ----
 
