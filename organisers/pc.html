@@ -13,9 +13,9 @@ menus:
 
 <p>The following people are members of the CUI {{ site.conference.year }} Programme Committee, who supported the CUI {{ site.conference.year }} peer review process by volunteering their time to complete reviews:</p>
 
-{%- assign pc_members = site.data.pc | sort: "country" -%}
-{%- assign pc_members = pc_members | sort: "firsname" -%}
-{%- assign pc_members = pc_members | sort: "surname" -%}
+{%- assign pc_members = site.data.pc | sort_natural: "country" -%}
+{%- assign pc_members = pc_members | sort_natural: "firsname" -%}
+{%- assign pc_members = pc_members | sort_natural: "surname" -%}
 {%- assign num_pc_members = site.data.pc | size -%}
 {%- assign half_num_pc_members = num_pc_members | plus: 1 -%}
 {%- assign half_num_pc_members = half_num_pc_members | divided_by: 2 -%}
