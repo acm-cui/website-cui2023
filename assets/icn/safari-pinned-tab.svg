@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>safari-pinned-tab</title>
-    <g id="safari-pinned-tab" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M4.69589712,2.34314895 L11.3041029,2.34314895 C13.8975752,2.34314895 16,4.4455737 16,7.03904606 C16,9.63251843 13.8975752,11.7349432 11.3041029,11.7349432 L8,11.7349432 L8,11.7349432 L8,14.7163923 L5.1379767,11.7349432 L4.69589712,11.7349432 C2.10242475,11.7349432 3.17608763e-16,9.63251843 0,7.03904606 C-3.17608763e-16,4.4455737 2.10242475,2.34314895 4.69589712,2.34314895 Z" id="Rectangle" fill="#CCCCCC"></path>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:5;">
+    <g transform="matrix(1,0,0,1,0,-1630)">
+        <g transform="matrix(1,-0,-0,1,-0,1630)">
+            <use xlink:href="#_Image1" x="0" y="4" width="32px" height="24px"/>
+        </g>
     </g>
+    <defs>
+        <image id="_Image1" width="32px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABKklEQVRIicXWvUoDQRQF4G8XtbMUwTJY2ASb2GhlbSfamhexykP4FFEbH8BSMIKCYKFoKyIIokiURIvdlbhuJIn7c+AUA3fuOTP3cmcCvxGghmWsoI6pjLhR0MMlTnGBG3z+tWEeB3FQETzCwjDxDTwWKJ7wCZtp8RpeShBP+IalRDzEcYniCU/EvbVVgXjCnRBr6XqUiNUQjQoNNAI8Y7YiA90Q9xWJw22IToUGOpUbIBq/ZUzANO8M9N52BQbW09exV5JwH7uZBRE9Eg8Fil9LDb4gw8ScaDw3YtZTcT28DjtBCn1ciZrtDO0x9n6j5ecp2uMm+C9mcD5gYD/P5OEIMe9o4iNeZ5WtUANE/7lWnsKTYFrUTId5Jh31BohK0EQ3TwOTYDHPZF8anxy3rhnW/wAAAABJRU5ErkJggg=="/>
+    </defs>
 </svg>
