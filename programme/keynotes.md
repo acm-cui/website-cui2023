@@ -12,7 +12,7 @@ menus:
   programme:
     title: Keynotes
     alt: Details about the CUI !!conference.year!! conference keynotes
-    weight: 1
+    weight: 10
     sep_before: true
 ---
 
