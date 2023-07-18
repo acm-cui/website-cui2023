@@ -6,7 +6,7 @@ redirect_from:
 description: The proceedings for the !!conference.year!! Conversational User Interfaces conference.
 
 layout: redirection
-#target: https://cui.acm.org/2023/programme/toc.html
+target: https://cui.acm.org/2023/programme/toc.html
 #target: https://dl.acm.org/doi/proceedings/10.1145/3571884
 
 menus:
