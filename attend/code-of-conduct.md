@@ -2,7 +2,7 @@
 label: SIGCHI Code of Conduct
 description: Go to the SIGCHI Code of Conduct
 layout: redirection
-target: https://sigchi.org/about/code-of-conduct/
+target: https://web.archive.org/web/20230608221956/https://sigchi.org/about/code-of-conduct/
 
 menus:
   attend:
