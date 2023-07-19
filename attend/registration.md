@@ -6,7 +6,7 @@ title: Registration
 splash_title: Register for CUI !!conference.year!!
 
 cta:
-  text: Registration is on-site online now
+  text: Registration is on-site only now
   title: Registration for ACM CUI is now on-site only
 #  text: Register now
 #  title: Registration for ACM CUI is open now
