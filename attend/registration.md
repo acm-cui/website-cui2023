@@ -26,8 +26,8 @@ CUI {{ site.conference.year }} is intended to be an in-person conference and as 
 {% if page.registration_open %}
 Registration for CUI {{ site.conference.year }} is now open.
 {% else %}
-We hope to open registration for CUI {{ site.conference.year }} very soon.
-<!-- Registration online has now closed, and you must register on-site.-->
+<!--We hope to open registration for CUI {{ site.conference.year }} very soon.-->
+ Registration online has now closed, and you must register on-site.
 {% endif %}
 
 Authors with papers accepted must register by **30th June 2023**. At least one author of each accepted paper must be registered to attend the conference in person. A paper without a corresponding registration may be withheld from publication. We will support remote presentations if attendance is not possible. There will be no on site registration.
