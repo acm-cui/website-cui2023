@@ -14,5 +14,4 @@ menus:
     title: Statistics
     alt: Peer review and registration statistics for CUI !!conference.year!! are on the ACM CUI community website
     weight: 21
-    sep_before: true
 ---
