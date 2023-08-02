@@ -12,16 +12,41 @@ layout: default
                 {%- endif -%}
                 {{- title | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates -}}
             </h1>
-            {%- if page.cta.text -%}
-                {% if page.cta.link and page.cta.title %}
-                    <div class="flex-grow-0">
-                        <a href="{{ page.cta.link }}" class="mt-3 btn btn-lg btn-light text-dark" title="{{- page.cta.title | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }}">{{ page.cta.text | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }} &rarr;</a>
-                    </div>
-                {% else %}
-                    <div class="flex-grow-0">
-                        <a class="mt-3 btn btn-lg btn-outline-light disabled">{{ page.cta.text }}</a>
-                    </div>
-                {% endif %}
+            {%- if page.cta -%}
+				{%- if page.cta2 -%}
+				aaaaaaa
+					<div class="btn-group">
+						{% if page.cta.link and page.cta.title %}
+							<div class="flex-grow-0">
+								<a href="{{ page.cta.link }}" class="mt-3 btn btn-lg btn-light text-dark" title="{{- page.cta.title | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }}">{{ page.cta.text | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }} &rarr;</a>
+							</div>
+						{% else %}
+							<div class="flex-grow-0">
+								<a class="mt-3 btn btn-lg btn-outline-light disabled">{{ page.cta.text }}</a>
+							</div>
+						{% endif %}
+						{% if page.cta2.link and page.cta2.title %}
+							<div class="flex-grow-0">
+								<a href="{{ page.cta.link }}" class="mt-3 btn btn-lg btn-light text-dark" title="{{- page.cta2.title | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }}">{{ page.cta2.text | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }} &rarr;</a>
+							</div>
+						{% else %}
+							<div class="flex-grow-0">
+								<a class="mt-3 btn btn-lg btn-outline-light disabled">{{ page.cta2.text }}</a>
+							</div>
+						{% endif %}
+
+					</div>
+				{%- else -%}bbbbb
+					{% if page.cta.link and page.cta.title %}
+						<div class="flex-grow-0">
+							<a href="{{ page.cta.link }}" class="mt-3 btn btn-lg btn-light text-dark" title="{{- page.cta.title | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }}">{{ page.cta.text | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }} &rarr;</a>
+						</div>
+					{% else %}
+						<div class="flex-grow-0">
+							<a class="mt-3 btn btn-lg btn-outline-light disabled">{{ page.cta.text }}</a>
+						</div>
+					{% endif %}
+				{%- endif -%}
             {%- endif -%}
         </div>
     </div>
