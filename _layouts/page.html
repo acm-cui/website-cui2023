@@ -14,7 +14,6 @@ layout: default
             </h1>
             {%- if page.cta -%}
 				{%- if page.cta2 -%}
-				aaaaaaa
 					<div class="btn-group">
 						{% if page.cta.link and page.cta.title %}
 							<div class="flex-grow-0">
@@ -36,7 +35,7 @@ layout: default
 						{% endif %}
 
 					</div>
-				{%- else -%}bbbbb
+				{%- else -%}
 					{% if page.cta.link and page.cta.title %}
 						<div class="flex-grow-0">
 							<a href="{{ page.cta.link }}" class="mt-3 btn btn-lg btn-light text-dark" title="{{- page.cta.title | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }}">{{ page.cta.text | replace: "!!conference.year!!", site.conference.year  | replace: "!!conference.location!!", site.conference.location  | replace: "!!conference.dates!!", site.conference.dates }} &rarr;</a>
